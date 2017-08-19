@@ -5,6 +5,7 @@ Sources and Links
 Cryptoeconomics 
 
 How Society Will Be Transformed By CryptoEconomics - https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c
+
 Cryptoeconomics 101 - https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff
 
 Why Cryptoeconomics and X-Risk Researchers Should Listen to Each Other More - https://medium.com/@VitalikButerin/why-cryptoeconomics-and-x-risk-researchers-should-listen-to-each-other-more-a2db72b3e86b
