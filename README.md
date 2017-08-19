@@ -16,6 +16,9 @@ Nick Szabo: great math model of several important aspects of Bitcoin. A better w
 
 Casper, Ethereum's secret weapon for dealing with "blockchain cartels" and why $100+ ETH isn't entirely unreasonable - https://steemit.com/ethereum/@dana-edwards/casper-ethereum-s-secret-weapon-for-dealing-with-blockchain-cartels-and-why-usd100-eth-isn-t-entirely-unreasonable
 
+Making Sense of Cryptoeconomics
+https://www.coindesk.com/making-sense-cryptoeconomics/
+
 Consensus Algorithms  
 
 Consensus Algorithm - Andreas explaining in detail all the basics. 
