@@ -1,6 +1,6 @@
 # Cryptoeconomics Readinglist
 
-A list of links, videos and other sources regarding the topic cryptoeconomics. 
+A list of links, videos and other sources regarding the topic Cryptoeconomics.
 
 ## Sources and Links
 
