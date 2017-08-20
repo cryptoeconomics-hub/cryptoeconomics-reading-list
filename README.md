@@ -1,8 +1,8 @@
-# cryptoeconomics-list
+# Cryptoeconomics Readinglist
 
-Sources and Links
+## Sources and Links
 
-Cryptoeconomics 
+### Cryptoeconomics
 
 How Society Will Be Transformed By CryptoEconomics - https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c
 
@@ -19,20 +19,18 @@ Casper, Ethereum's secret weapon for dealing with "blockchain cartels" and why $
 Making Sense of Cryptoeconomics
 https://www.coindesk.com/making-sense-cryptoeconomics/
 
-Consensus Algorithms  
+### Consensus Algorithms  
 
-Consensus Algorithm - Andreas explaining in detail all the basics. 
+Consensus Algorithm - Andreas explaining in detail all the basics.
 https://www.youtube.com/watch?v=fw3WkySh_Ho&t=3606s
 
-“Blockchain Consensus Protocols in the Wild” by IBM research, consensus algorithms for permissioned blockchains 
+“Blockchain Consensus Protocols in the Wild” by IBM research, consensus algorithms for permissioned blockchains
 https://arxiv.org/pdf/1707.01873.pdf
 
-“A Proof of Stake Design Philosophy” by Vitalik Buterin 
+“A Proof of Stake Design Philosophy” by Vitalik Buterin
 https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51
 
-Empirical testing 
+### Empirical testing 
 
-How manipulation-resistant are Prediction Markets? Our Undertaking in Empirical Cryptoeconomics by Gnosis 
+How manipulation-resistant are Prediction Markets? Our Undertaking in Empirical Cryptoeconomics by Gnosis
 https://blog.gnosis.pm/how-manipulation-resistant-are-prediction-markets-710e14033d62
-
-
