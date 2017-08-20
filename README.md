@@ -1,5 +1,7 @@
 # Cryptoeconomics Readinglist
 
+A list of links, videos and other sources regarding the topic cryptoeconomics. 
+
 ## Sources and Links
 
 ### Cryptoeconomics
@@ -30,7 +32,7 @@ https://arxiv.org/pdf/1707.01873.pdf
 “A Proof of Stake Design Philosophy” by Vitalik Buterin
 https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51
 
-### Empirical testing 
+### Empirical testing
 
 How manipulation-resistant are Prediction Markets? Our Undertaking in Empirical Cryptoeconomics by Gnosis
 https://blog.gnosis.pm/how-manipulation-resistant-are-prediction-markets-710e14033d62
