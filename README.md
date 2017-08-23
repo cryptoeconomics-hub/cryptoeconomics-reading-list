@@ -21,6 +21,9 @@ Casper, Ethereum's secret weapon for dealing with "blockchain cartels" and why $
 Making Sense of Cryptoeconomics
 https://www.coindesk.com/making-sense-cryptoeconomics/
 
+What is Cryptoeconomics - Guide
+https://blockgeeks.com/guides/what-is-cryptoeconomics/
+
 ### Consensus Algorithms  
 
 Consensus Algorithm - Andreas explaining in detail all the basics.
