@@ -6,11 +6,14 @@ A list of links, videos and other sources regarding the topic Cryptoeconomics.
 
 ### Cryptoeconomics
 
+#### Articles
+
 How Society Will Be Transformed By CryptoEconomics - https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c
 
 Cryptoeconomics 101 - https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff
 
 Why Cryptoeconomics and X-Risk Researchers Should Listen to Each Other More - https://medium.com/@VitalikButerin/why-cryptoeconomics-and-x-risk-researchers-should-listen-to-each-other-more-a2db72b3e86b
+
 Cryptoeconomics: Paving the Future of Blockchain Technology - https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971?source=userActivityShare-a6ab39e7631f-1500812885
 
 Cryptoeconomics 101 – The Control - https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff?source=userActivityShare-a6ab39e7631f-1498457589
@@ -23,6 +26,20 @@ https://www.coindesk.com/making-sense-cryptoeconomics/
 
 What is Cryptoeconomics - Guide
 https://blockgeeks.com/guides/what-is-cryptoeconomics/
+
+#### Videos
+
+Vlad Zamir - What is Cryptoeconomics  
+https://www.youtube.com/watch?v=9lw3s7iGUXQ
+
+Vitalik Buterin - Introduction to Cryptoeconomics
+https://www.youtube.com/watch?v=pKqdjaH1dRo
+
+Vitalik Buterin - Hard problems in Cryptoeconomics
+https://www.youtube.com/watch?v=p5qwbOkCZSc&t=2316s
+
+Vitalik Buterin - The cryptoeconomic way
+https://www.youtube.com/watch?v=ZH9nMKIHfAE
 
 ### Consensus Algorithms  
 
