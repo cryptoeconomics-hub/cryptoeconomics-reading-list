@@ -44,6 +44,11 @@ https://www.youtube.com/watch?v=p5qwbOkCZSc&t=2316s
 Vitalik Buterin - The cryptoeconomic way
 https://www.youtube.com/watch?v=ZH9nMKIHfAE
 
+#### Other
+
+Expossion on cryptoeconomics
+https://www.mqw.at/en/program//programmdetail/crypto-economic-artefacts-1/
+
 ### Consensus Algorithms  
 
 Consensus Algorithm - Andreas explaining in detail all the basics.
