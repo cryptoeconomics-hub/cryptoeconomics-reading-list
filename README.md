@@ -58,6 +58,19 @@ How manipulation-resistant are Prediction Markets? Our Undertaking in Empirical 
 https://blog.gnosis.pm/how-manipulation-resistant-are-prediction-markets-710e14033d62
 
 ### Game Theory
-What is Cryptocurrency Game Theory: A Basic introduction 
+
+What is Cryptocurrency Game Theory: A Basic introduction
 https://blockgeeks.com/guides/cryptocurrency-game-theory/
 
+#### Schelling Point
+
+Schelling Points & Ethereum
+https://blog.sia.tech/schelling-points-prediction-markets-and-consensus-ee33daeef47a
+
+### Stablecoins
+
+Early thoughts on the search for stablecoins
+https://blog.ethereum.org/2014/11/11/search-stable-cryptocurrency/
+
+Critical Article about different approaches to stabilize cryptocurrencies
+https://venturebeat.com/2017/06/17/heres-how-we-start-to-stabilize-bitcoin-ethereum/
