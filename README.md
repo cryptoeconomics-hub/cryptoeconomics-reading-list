@@ -27,6 +27,9 @@ https://www.coindesk.com/making-sense-cryptoeconomics/
 What is Cryptoeconomics - Guide
 https://blockgeeks.com/guides/what-is-cryptoeconomics/
 
+Summary & actual status on cryptoeconomics
+https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669
+
 #### Videos
 
 Vlad Zamir - What is Cryptoeconomics  
@@ -52,6 +55,9 @@ https://arxiv.org/pdf/1707.01873.pdf
 “A Proof of Stake Design Philosophy” by Vitalik Buterin
 https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51
 
+Questions on PoS
+https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ
+
 ### Empirical testing
 
 How manipulation-resistant are Prediction Markets? Our Undertaking in Empirical Cryptoeconomics by Gnosis
@@ -64,8 +70,14 @@ https://blockgeeks.com/guides/cryptocurrency-game-theory/
 
 #### Schelling Point
 
+Where does the idea come from
+http://wisdomofcrowds.blogspot.com.es/2010/02/chapter-five-part-iii.html
+
 Schelling Points & Ethereum
 https://blog.sia.tech/schelling-points-prediction-markets-and-consensus-ee33daeef47a
+
+The idea behind Schelling Coin
+https://blog.ethereum.org/2014/06/30/advanced-contract-programming-example-schellingcoin/
 
 ### Stablecoins
 
