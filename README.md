@@ -46,7 +46,7 @@ https://www.youtube.com/watch?v=ZH9nMKIHfAE
 
 #### Other
 
-Expossion on cryptoeconomics
+Exposition on cryptoeconomics
 https://www.mqw.at/en/program//programmdetail/crypto-economic-artefacts-1/
 
 ### Consensus Algorithms  
