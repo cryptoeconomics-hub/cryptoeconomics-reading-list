@@ -4,7 +4,7 @@ A list of links, videos and other sources regarding the topic Cryptoeconomics.
 
 ## Sources and Links
 
-### Cryptoeconomics
+### Cryptoeconomics - Overview
 
 #### Articles
 
@@ -44,6 +44,11 @@ https://www.youtube.com/watch?v=p5qwbOkCZSc&t=2316s
 Vitalik Buterin - The cryptoeconomic way
 https://www.youtube.com/watch?v=ZH9nMKIHfAE
 
+#### Empirical testing
+
+How manipulation-resistant are Prediction Markets? Our Undertaking in Empirical Cryptoeconomics by Gnosis
+https://blog.gnosis.pm/how-manipulation-resistant-are-prediction-markets-710e14033d62
+
 #### Other
 
 Exposition on cryptoeconomics
@@ -52,7 +57,7 @@ https://www.mqw.at/en/program//programmdetail/crypto-economic-artefacts-1/
 Abstract video on cryptoeconomics
 https://www.reddit.com/r/ethtrader/comments/6xp7q5/i_think_i_seriously_just_figured_out_all_of/?st=J74IGNOF&sh=c06637cb
 
-### Consensus Algorithms  
+### Consensus Algorithms - Overview
 
 Consensus Algorithm - Andreas explaining in detail all the basics.
 https://www.youtube.com/watch?v=fw3WkySh_Ho&t=3606s
@@ -60,18 +65,20 @@ https://www.youtube.com/watch?v=fw3WkySh_Ho&t=3606s
 “Blockchain Consensus Protocols in the Wild” by IBM research, consensus algorithms for permissioned blockchains
 https://arxiv.org/pdf/1707.01873.pdf
 
+#### PoS - Proof of Stake  
+
 “A Proof of Stake Design Philosophy” by Vitalik Buterin
 https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51
 
 Questions on PoS
 https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ
 
-### Empirical testing
+##### Podcasts
 
-How manipulation-resistant are Prediction Markets? Our Undertaking in Empirical Cryptoeconomics by Gnosis
-https://blog.gnosis.pm/how-manipulation-resistant-are-prediction-markets-710e14033d62
+Vlad Zamir answering questions regarding Casper
+https://etherreview.info/the-ether-review-2-vlad-zamfir-28f95afc8a3c
 
-### Game Theory
+### Game Theory - Overview
 
 What is Cryptocurrency Game Theory: A Basic introduction
 https://blockgeeks.com/guides/cryptocurrency-game-theory/
@@ -90,7 +97,7 @@ https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-dat
 Explaining the contract step by step behind Schellingcoin
 https://blog.ethereum.org/2014/06/30/advanced-contract-programming-example-schellingcoin/
 
-### Stablecoins
+### Stablecoins - Overview 
 
 Early thoughts on the search for stablecoins
 https://blog.ethereum.org/2014/11/11/search-stable-cryptocurrency/
