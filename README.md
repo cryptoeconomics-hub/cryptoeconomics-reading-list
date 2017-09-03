@@ -75,13 +75,16 @@ https://blockgeeks.com/guides/cryptocurrency-game-theory/
 
 #### Schelling Point
 
-Where does the idea come from
+Introduction to the concept of Schelling Point
 http://wisdomofcrowds.blogspot.com.es/2010/02/chapter-five-part-iii.html
 
-Schelling Points & Ethereum
-https://blog.sia.tech/schelling-points-prediction-markets-and-consensus-ee33daeef47a
+The Schelling Point & Networks
+https://media.consensys.net/hashtag-markets-mashing-together-reddit-schelling-points-tokenisation-autonomous-organisations-ceec3cd3baf0
 
-The idea behind Schelling Coin
+Explaining the concept of Schelligcoin to create a decentralized oracle
+https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-data-feed/
+
+Explaining the contract step by step behind Schellingcoin
 https://blog.ethereum.org/2014/06/30/advanced-contract-programming-example-schellingcoin/
 
 ### Stablecoins
