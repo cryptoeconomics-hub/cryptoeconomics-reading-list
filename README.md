@@ -78,6 +78,9 @@ https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ
 Vlad Zamir answering questions regarding Casper
 https://etherreview.info/the-ether-review-2-vlad-zamfir-28f95afc8a3c
 
+Karl Floresch presenting Casper
+https://www.youtube.com/watch?v=MyDocEQfBGA
+
 ### Game Theory - Overview
 
 What is Cryptocurrency Game Theory: A Basic introduction
@@ -97,7 +100,7 @@ https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-dat
 Explaining the contract step by step behind Schellingcoin
 https://blog.ethereum.org/2014/06/30/advanced-contract-programming-example-schellingcoin/
 
-### Stablecoins - Overview 
+### Stablecoins - Overview
 
 Early thoughts on the search for stablecoins
 https://blog.ethereum.org/2014/11/11/search-stable-cryptocurrency/
