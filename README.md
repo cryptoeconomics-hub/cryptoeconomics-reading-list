@@ -1,4 +1,4 @@
-# Cryptoeconomics Reading list
+# Cryptoeconomics Readinglist
 
 A list of links, videos and other sources regarding the topic Cryptoeconomics.
 
@@ -102,6 +102,14 @@ https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-dat
 Explaining the contract step by step behind Schellingcoin
 https://blog.ethereum.org/2014/06/30/advanced-contract-programming-example-schellingcoin/
 
+#### Applied to Bitcoin Mining
+
+Game Theory approach behind the motivation for bitcoin mining (paper)
+http://ledger.pitt.edu/ojs/index.php/ledger/article/view/96/67
+
+Game Theory approach behind the motivation for bitcoin mining (video)
+https://www.youtube.com/watch?v=_VANRj3WpdY
+
 ### Stablecoins - Overview
 
 Early thoughts on the search for stablecoins
@@ -109,11 +117,3 @@ https://blog.ethereum.org/2014/11/11/search-stable-cryptocurrency/
 
 Critical Article about different approaches to stabilize cryptocurrencies
 https://venturebeat.com/2017/06/17/heres-how-we-start-to-stabilize-bitcoin-ethereum/
-
-#### applied to Bitcoin Mining
-
-Game Theory approach behind the motivation for bitcoin mining (paper)
-http://ledger.pitt.edu/ojs/index.php/ledger/article/view/96/67
-
-Game Theory approach behind the motivation for bitcoin mining (video)
-https://www.youtube.com/watch?v=_VANRj3WpdY
