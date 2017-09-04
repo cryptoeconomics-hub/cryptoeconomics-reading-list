@@ -78,6 +78,8 @@ https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ
 Vlad Zamir answering questions regarding Casper
 https://etherreview.info/the-ether-review-2-vlad-zamfir-28f95afc8a3c
 
+##### Videos
+
 Karl Floresch presenting Casper
 https://www.youtube.com/watch?v=MyDocEQfBGA
 
@@ -107,3 +109,11 @@ https://blog.ethereum.org/2014/11/11/search-stable-cryptocurrency/
 
 Critical Article about different approaches to stabilize cryptocurrencies
 https://venturebeat.com/2017/06/17/heres-how-we-start-to-stabilize-bitcoin-ethereum/
+
+#### applied to Bitcoin Mining
+
+Game Theory approach behind the motivation for bitcoin mining (paper)
+http://ledger.pitt.edu/ojs/index.php/ledger/article/view/96/67
+
+Game Theory approach behind the motivation for bitcoin mining (video)
+https://www.youtube.com/watch?v=_VANRj3WpdY
