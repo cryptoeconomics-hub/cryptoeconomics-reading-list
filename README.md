@@ -2,11 +2,9 @@
 
 A list of links, videos and other sources regarding the topic Cryptoeconomics.
 
-## Sources and Links
+## Cryptoeconomics
 
-### Cryptoeconomics - Overview
-
-#### Articles
+### Articles
 
 How Society Will Be Transformed By CryptoEconomics - https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c
 
@@ -30,7 +28,7 @@ https://blockgeeks.com/guides/what-is-cryptoeconomics/
 Summary & actual status on cryptoeconomics
 https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669
 
-#### Videos
+### Videos
 
 Vlad Zamir - What is cryptoeconomics  
 https://www.youtube.com/watch?v=9lw3s7iGUXQ
@@ -44,12 +42,12 @@ https://www.youtube.com/watch?v=p5qwbOkCZSc&t=2316s
 Vitalik Buterin - The cryptoeconomic way
 https://www.youtube.com/watch?v=ZH9nMKIHfAE
 
-#### Empirical testing
+### Empirical testing
 
 How manipulation-resistant are Prediction Markets? Our Undertaking in Empirical Cryptoeconomics by Gnosis
 https://blog.gnosis.pm/how-manipulation-resistant-are-prediction-markets-710e14033d62
 
-#### Other
+### Other
 
 Exposition on cryptoeconomics
 https://www.mqw.at/en/program//programmdetail/crypto-economic-artefacts-1/
@@ -57,7 +55,9 @@ https://www.mqw.at/en/program//programmdetail/crypto-economic-artefacts-1/
 Abstract video on cryptoeconomics
 https://www.reddit.com/r/ethtrader/comments/6xp7q5/i_think_i_seriously_just_figured_out_all_of/?st=J74IGNOF&sh=c06637cb
 
-### Consensus Algorithms - Overview
+## Consensus Algorithms
+
+### Overview
 
 Consensus Algorithm - Andreas explaining in detail all the basics.
 https://www.youtube.com/watch?v=fw3WkySh_Ho&t=3606s
@@ -65,7 +65,7 @@ https://www.youtube.com/watch?v=fw3WkySh_Ho&t=3606s
 “Blockchain Consensus Protocols in the Wild” by IBM research, consensus algorithms for permissioned blockchains
 https://arxiv.org/pdf/1707.01873.pdf
 
-#### PoS - Proof of Stake  
+### PoS - Proof of Stake  
 
 “A Proof of Stake Design Philosophy” by Vitalik Buterin
 https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51
@@ -73,22 +73,24 @@ https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d
 Questions on PoS
 https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ
 
-##### Podcasts
+#### Podcasts
 
 Vlad Zamir answering questions regarding Casper
 https://etherreview.info/the-ether-review-2-vlad-zamfir-28f95afc8a3c
 
-##### Videos
+#### Videos
 
 Karl Floresch presenting Casper
 https://www.youtube.com/watch?v=MyDocEQfBGA
 
-### Game Theory - Overview
+## Game Theory
+
+### Overview
 
 What is Cryptocurrency Game Theory: A Basic introduction
 https://blockgeeks.com/guides/cryptocurrency-game-theory/
 
-#### Schelling Point
+### Schelling Point
 
 Introduction to the concept of Schelling Point
 http://wisdomofcrowds.blogspot.com.es/2010/02/chapter-five-part-iii.html
@@ -102,7 +104,7 @@ https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-dat
 Explaining the contract step by step behind Schellingcoin
 https://blog.ethereum.org/2014/06/30/advanced-contract-programming-example-schellingcoin/
 
-#### Applied to Bitcoin Mining
+### Applied to Bitcoin Mining
 
 Game Theory approach behind the motivation for bitcoin mining (paper)
 http://ledger.pitt.edu/ojs/index.php/ledger/article/view/96/67
@@ -110,7 +112,9 @@ http://ledger.pitt.edu/ojs/index.php/ledger/article/view/96/67
 Game Theory approach behind the motivation for bitcoin mining (video)
 https://www.youtube.com/watch?v=_VANRj3WpdY
 
-### Stablecoins - Overview
+## Stablecoins
+
+### Overview
 
 Early thoughts on the search for stablecoins
 https://blog.ethereum.org/2014/11/11/search-stable-cryptocurrency/
