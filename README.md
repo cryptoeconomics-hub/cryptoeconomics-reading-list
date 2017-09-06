@@ -36,11 +36,17 @@ https://www.youtube.com/watch?v=9lw3s7iGUXQ
 Vitalik Buterin - Introduction to cryptoeconomics
 https://www.youtube.com/watch?v=pKqdjaH1dRo
 
+and the corresponding presentation
+https://edcon.io/ppt/one/Vitalik%20Buterin_Introduction%20to%20Cryptoeconomics_EDCON.pdf
+
 Vitalik Buterin - Hard problems in cryptoeconomics
 https://www.youtube.com/watch?v=p5qwbOkCZSc&t=2316s
 
 Vitalik Buterin - The cryptoeconomic way
 https://www.youtube.com/watch?v=ZH9nMKIHfAE
+
+Vitalik Buterin - Cryptoeconomic Protocols
+https://www.slideshare.net/ethereum/vitalik-buterin-cryptoeconomic-protocols-in-the-context-of-wider-society
 
 ### Empirical testing
 
@@ -98,11 +104,14 @@ http://wisdomofcrowds.blogspot.com.es/2010/02/chapter-five-part-iii.html
 The Schelling Point & Networks
 https://media.consensys.net/hashtag-markets-mashing-together-reddit-schelling-points-tokenisation-autonomous-organisations-ceec3cd3baf0
 
-Explaining the concept of Schelligcoin to create a decentralized oracle
+Vitalik Buterin- Explaining the concept of Schelligcoin to create a decentralized oracle
 https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-data-feed/
 
-Explaining the contract step by step behind Schellingcoin
+Vitalik Buterin - Explaining the contract step by step behind Schellingcoin
 https://blog.ethereum.org/2014/06/30/advanced-contract-programming-example-schellingcoin/
+
+New approach to Schellingcoin as the distance to the median 
+https://medium.com/@roman.brodetski/introducing-oracul-decentralized-oracle-data-feed-solution-for-ethereum-5cab1ca8bb64
 
 ### Applied to Bitcoin Mining
 
@@ -111,6 +120,15 @@ http://ledger.pitt.edu/ojs/index.php/ledger/article/view/96/67
 
 Game Theory approach behind the motivation for bitcoin mining (video)
 https://www.youtube.com/watch?v=_VANRj3WpdY
+
+## Attacks
+
+Podcast from 2015 on PoW - attacks
+https://letstalkbitcoin.com/blog/post/epicenter-bitcoin-68-kamikaze-attack-block-halving-and-the-perils-of-proof-of-work
+
+Vitalik Buterin - P-epsilon-attack post written
+https://blog.ethereum.org/2015/01/28/p-epsilon-attack/
+
 
 ## Stablecoins
 
