@@ -4,6 +4,8 @@ A list of links, videos and other sources regarding the topic Cryptoeconomics.
 
 ## Cryptoeconomics
 
+http://slides.com/ethereummadrid/cryptoeconomics101-stablecoin#/
+
 ### Articles
 
 How Society Will Be Transformed By CryptoEconomics - https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c
@@ -110,7 +112,7 @@ https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-dat
 Vitalik Buterin - Explaining the contract step by step behind Schellingcoin
 https://blog.ethereum.org/2014/06/30/advanced-contract-programming-example-schellingcoin/
 
-New approach to Schellingcoin as the distance to the median 
+New approach to Schellingcoin as the distance to the median
 https://medium.com/@roman.brodetski/introducing-oracul-decentralized-oracle-data-feed-solution-for-ethereum-5cab1ca8bb64
 
 ### Applied to Bitcoin Mining
