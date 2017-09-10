@@ -136,8 +136,28 @@ https://blog.ethereum.org/2015/01/28/p-epsilon-attack/
 
 ### Overview
 
-Early thoughts on the search for stablecoins
+Volatility and Mass Adoption: 2 reasons we would benefit from a stablecoin
+https://medium.com/topl-blog/dangerous-volatility-and-why-we-need-a-stable-cryptocurrency-6d66dcd605f8
+
+Early thoughts on the search for stablecoin
 https://blog.ethereum.org/2014/11/11/search-stable-cryptocurrency/
 
-Critical Article about different approaches to stabilize cryptocurrencies
+Article about different approaches to stabilize cryptocurrencies
 https://venturebeat.com/2017/06/17/heres-how-we-start-to-stabilize-bitcoin-ethereum/
+
+### Existing Projects
+
+* MakerDAO: https://makerdao.com
+* VariabL: https://variabl.io/?source=collection_home---2------0----------------
+* BitShares: https://bitshares.org
+* NuBit: https://www.nubits.com
+
+### MakerDAO
+
+White Paper: https://github.com/makerdao/docs/blob/master/Dai.md
+Purple Paper: http://stablecoin.technology/purple.pdf
+Interviews with MakerDAO:
+* Epicenter: https://soundcloud.com/epicenterbitcoin/eb-124
+* EtherReview: https://soundcloud.com/arthurfalls/the-ether-review-20-maker-the
+* CoinFund: https://youtu.be/ZggkzPJ5Yt4
+Live Experiment with Sai, a Simple Stablecoin: https://blog.makerdao.com/2017/06/05/introducing-sai/
