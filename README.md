@@ -32,7 +32,7 @@ https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669
 
 ### Videos
 
-Vlad Zamir - What is cryptoeconomics  
+Vlad Zamfir - What is cryptoeconomics  
 https://www.youtube.com/watch?v=9lw3s7iGUXQ
 
 Vitalik Buterin - Introduction to cryptoeconomics
@@ -83,7 +83,7 @@ https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ
 
 #### Podcasts
 
-Vlad Zamir answering questions regarding Casper
+Vlad Zamfir answering questions regarding Casper
 https://etherreview.info/the-ether-review-2-vlad-zamfir-28f95afc8a3c
 
 #### Videos
@@ -106,13 +106,13 @@ http://wisdomofcrowds.blogspot.com.es/2010/02/chapter-five-part-iii.html
 The Schelling Point & Networks
 https://media.consensys.net/hashtag-markets-mashing-together-reddit-schelling-points-tokenisation-autonomous-organisations-ceec3cd3baf0
 
-Vitalik Buterin- Explaining the concept of Schelligcoin to create a decentralized oracle
+Vitalik Buterin- Explaining the concept of SchellingCoin to create a decentralized oracle
 https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-data-feed/
 
-Vitalik Buterin - Explaining the contract step by step behind Schellingcoin
+Vitalik Buterin - Explaining the contract step by step behind SchellingCoin
 https://blog.ethereum.org/2014/06/30/advanced-contract-programming-example-schellingcoin/
 
-New approach to Schellingcoin as the distance to the median
+New approach to SchellingCoin as the distance to the median
 https://medium.com/@roman.brodetski/introducing-oracul-decentralized-oracle-data-feed-solution-for-ethereum-5cab1ca8bb64
 
 ### Applied to Bitcoin Mining
