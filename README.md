@@ -1,4 +1,4 @@
-# Cryptoeconomics Readinglist
+# Cryptoeconomics Reading List
 
 A list of links, videos and other sources regarding Cryptoeconomics.
 
