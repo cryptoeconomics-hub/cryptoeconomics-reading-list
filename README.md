@@ -131,7 +131,6 @@ https://letstalkbitcoin.com/blog/post/epicenter-bitcoin-68-kamikaze-attack-block
 Vitalik Buterin - P-epsilon-attack post written
 https://blog.ethereum.org/2015/01/28/p-epsilon-attack/
 
-
 ## Stablecoins
 
 ### Overview
@@ -161,3 +160,21 @@ Interviews with MakerDAO:
 * EtherReview: https://soundcloud.com/arthurfalls/the-ether-review-20-maker-the
 * CoinFund: https://youtu.be/ZggkzPJ5Yt4
 Live Experiment with Sai, a Simple Stablecoin: https://blog.makerdao.com/2017/06/05/introducing-sai/
+
+## State Channels
+
+### Overview
+
+Compact and very well explained definition
+http://www.jeffcoleman.ca/state-channels/
+
+Overview on the Raiden Network
+https://hackernoon.com/raiden-network-developer-preview-dad83ec3fc23
+
+#### Videos
+
+Lefteris Karapetsas - Presenting in short the The Raiden Network
+https://www.youtube.com/watch?v=JuVP4iDVkoQ&index=4&list=PLaM7G4Llrb7wPiT2G75tj2JQr8qg6P5hi
+
+Ameen Soleimani - State Channels explained in detail
+https://www.youtube.com/watch?v=MEL50CVOcH4
