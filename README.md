@@ -147,7 +147,7 @@ https://venturebeat.com/2017/06/17/heres-how-we-start-to-stabilize-bitcoin-ether
 ### Existing Projects
 
 * MakerDAO: https://makerdao.com
-* VariabL: https://variabl.io/?source=collection_home---2------0----------------
+* VariabL: https://variabl.io
 * BitShares: https://bitshares.org
 * NuBit: https://www.nubits.com
 
@@ -159,7 +159,7 @@ Interviews with MakerDAO:
 * Epicenter: https://soundcloud.com/epicenterbitcoin/eb-124
 * EtherReview: https://soundcloud.com/arthurfalls/the-ether-review-20-maker-the
 * CoinFund: https://youtu.be/ZggkzPJ5Yt4
-Live Experiment with Sai, a Simple Stablecoin: https://blog.makerdao.com/2017/06/05/introducing-sai/
+An Experiment with Sai, a Simple Stablecoin: https://blog.makerdao.com/2017/06/05/introducing-sai/
 
 ## State Channels
 
