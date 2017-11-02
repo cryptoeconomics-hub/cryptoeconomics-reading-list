@@ -125,11 +125,29 @@ https://www.youtube.com/watch?v=_VANRj3WpdY
 
 ## Attacks
 
+### Overview
+
+General article on how attacks work in Pow
+https://medium.com/@chrshmmmr/an-introduction-to-understanding-attacks-and-dishonesty-on-proof-of-work-blockchains-9e7f547ed4c8
+
 Podcast from 2015 on PoW - attacks
 https://letstalkbitcoin.com/blog/post/epicenter-bitcoin-68-kamikaze-attack-block-halving-and-the-perils-of-proof-of-work
 
+### 51% Attack
+
+### P + epsilon Attack  
+
 Vitalik Buterin - P-epsilon-attack post written
 https://blog.ethereum.org/2015/01/28/p-epsilon-attack/
+
+### Nothing at stake Attack  
+
+### 5% wrench Attack
+
+Comic
+https://xkcd.com/538/
+
+
 
 ## Stablecoins
 
