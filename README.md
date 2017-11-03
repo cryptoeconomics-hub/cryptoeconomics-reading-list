@@ -127,11 +127,18 @@ https://www.youtube.com/watch?v=_VANRj3WpdY
 
 ### Overview
 
-General article on how attacks work in Pow
+Research Paper on the security model in PoW
+https://eprint.iacr.org/2016/555.pdf
+
+General article on how attacks work in PoW
 https://medium.com/@chrshmmmr/an-introduction-to-understanding-attacks-and-dishonesty-on-proof-of-work-blockchains-9e7f547ed4c8
+
+https://medium.com/@chrshmmmr/a-guide-to-dishonesty-on-pow-blockchains-when-does-double-spending-pays-off-4f1994074b52
 
 Podcast from 2015 on PoW - attacks
 https://letstalkbitcoin.com/blog/post/epicenter-bitcoin-68-kamikaze-attack-block-halving-and-the-perils-of-proof-of-work
+
+
 
 ### 51% Attack
 
