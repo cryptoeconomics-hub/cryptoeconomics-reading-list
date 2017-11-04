@@ -120,7 +120,7 @@ Andreas Antonopoulos
 
 1. [Volatility and Mass Adoption: 2 reasons we would benefit from a stablecoin](https://medium.com/topl-blog/dangerous-volatility-and-why-we-need-a-stable-cryptocurrency-6d66dcd605f8)
 1. [Early thoughts on the search for stablecoin](https://blog.ethereum.org/2014/11/11/search-stable-cryptocurrency/)
-1. [Article about different approaches to stabilize cryptocurrencies](https://venturebeat.com/2017/06/17/heres-how-we-start-to-stabilize-bitcoin-ethereum/()
+1. [Article about different approaches to stabilize cryptocurrencies](https://venturebeat.com/2017/06/17/heres-how-we-start-to-stabilize-bitcoin-ethereum/)
 
 ### Existing Projects
 
@@ -131,9 +131,11 @@ Andreas Antonopoulos
 
 ### MakerDAO
 
-[White Paper](https://github.com/makerdao/docs/blob/master/Dai.md)
-[Purple Paper](http://stablecoin.technology/purple.pdf)
-Interviews with MakerDAO
+* [White Paper](https://github.com/makerdao/docs/blob/master/Dai.md)
+* [Purple Paper](http://stablecoin.technology/purple.pdf)
+
+####Interviews with MakerDAO
+
 * [Epicenter](https://soundcloud.com/epicenterbitcoin/eb-124)
 * [EtherReview](https://soundcloud.com/arthurfalls/the-ether-review-20-maker-the)
 * [CoinFund](https://youtu.be/ZggkzPJ5Yt4)
