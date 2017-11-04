@@ -12,11 +12,11 @@ A list of links, videos and other sources regarding Cryptoeconomics.
 
 ### Articles
 
-How Society Will Be Transformed By CryptoEconomics - https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c
+[How Society Will Be Transformed By CryptoEconomics] (https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c)
 
-Cryptoeconomics 101 - https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff
+[Cryptoeconomics 101] (https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff)
 
-Why Cryptoeconomics and X-Risk Researchers Should Listen to Each Other More - https://medium.com/@VitalikButerin/why-cryptoeconomics-and-x-risk-researchers-should-listen-to-each-other-more-a2db72b3e86b
+[Why Cryptoeconomics and X-Risk Researchers Should Listen to Each Other More] (https://medium.com/@VitalikButerin/why-cryptoeconomics-and-x-risk-researchers-should-listen-to-each-other-more-a2db72b3e86b)
 
 Cryptoeconomics: Paving the Future of Blockchain Technology - https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971?source=userActivityShare-a6ab39e7631f-1500812885
 
