@@ -50,13 +50,15 @@ RIAT - Institute for Future Cryptoeconomics
 
 ### Overview
 
-Consensus Algorithm - Andreas explaining in detail all the basics.
-https://www.youtube.com/watch?v=fw3WkySh_Ho&t=3606s
+1. [Consensus algorithms for permissioned blockchains](https://arxiv.org/pdf/1707.01873.pdf)
+IBM research
 
-“Blockchain Consensus Protocols in the Wild” by IBM research, consensus algorithms for permissioned blockchains
-https://arxiv.org/pdf/1707.01873.pdf
+### PoS - Proof of Stake
 
-### PoS - Proof of Stake  
+1. [Consensus Algorithm PoW](https://www.youtube.com/watch?v=fw3WkySh_Ho&t=3606s)
+Andreas Antonopoulos
+
+### PoW - Proof of Work  
 
 1. [Casper, Ethereum's secret weapon for dealing with "blockchain cartels" and why $100+ ETH isn't entirely unreasonable](  https://steemit.com/ethereum/@dana-edwards/casper-ethereum-s-secret-weapon-for-dealing-with-blockchain-cartels-and-why-usd100-eth-isn-t-entirely-unreasonable)
 1. [Questions on PoS](  https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
