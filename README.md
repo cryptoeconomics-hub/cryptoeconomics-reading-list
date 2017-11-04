@@ -19,10 +19,6 @@ We are experiencing one of the most exciting times in history as we have now the
 
 * [DevCon 3 - 5:05 Programmable Incentives](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Karl Floresch
 * [What is Cryptoeconomics](https://www.youtube.com/watch?v=9lw3s7iGUXQ) Vlad Zamfir
-* [DevCon 3 - 5:05 Programmable Incentives - Intro to Cryptoeconomics](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Karl Floresch
-* [What is Cryptoeconomics](https://www.youtube.com/watch?v=9lw3s7iGUXQ) Vlad Zamir
-* [DevCon 3 - 5:05 Programmable Incentives](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Karl Floresch
-* [What is Cryptoeconomics](https://www.youtube.com/watch?v=9lw3s7iGUXQ) Vlad Zamfir
 * [Introduction to cryptoeconomics](https://www.youtube.com/watch?v=pKqdjaH1dRo)
 [Presentation](https://edcon.io/ppt/one/Vitalik%20Buterin_Introduction%20to%20Cryptoeconomics_EDCON.pdf) Vitalik Buterin
 * [Hard problems in cryptoeconomics](https://www.youtube.com/watch?v=p5qwbOkCZSc&t=2316s) Vitalik Buterin
@@ -64,9 +60,7 @@ We are experiencing one of the most exciting times in history as we have now the
 
 * [DevCon 3 - 3:55 Verifying Casper ](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Yoichi Hirai
 * [DevCon 3 - 5:55 Presentation Casper](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Vlad Zamfir
-* [DevCon 3 - 5:55 Presentation Casper](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Vlad Zamir
 * [DevCon 3 - 6.23 Panel on Casper and distributed consensus](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Vitalik Buterin, Vlad Zamir, Emin Gun Sirer, Peter Czaban,  Elaine Shi
-* [DevCon 3 - 5:55 Presentation Casper](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Vlad Zamfir
 * [Presenting Casper](https://www.youtube.com/watch?v=MyDocEQfBGA) Karl Floresch
 
 ## Game Theory
