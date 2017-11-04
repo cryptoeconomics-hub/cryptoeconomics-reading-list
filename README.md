@@ -14,7 +14,7 @@ A list of links, videos and other sources regarding Cryptoeconomics.
 
 1. [How Society Will Be Transformed By CryptoEconomics](https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c)
 1.  [Cryptoeconomics for dummies](https://medium.com/@j32804/cryptoeconomics-for-dummies-part-0-7172efa81507)
-1.  [Ethereum Madrid's Cryptoeconomics 101](http://slides.com/ethereummadrid/cryptoeconomics101-stablecoin#/) Ethereum Madrid
+1.  [Cryptoeconomics 101](http://slides.com/ethereummadrid/cryptoeconomics101-stablecoin#/) Ethereum Madrid
 1.  [Making Sense of Cryptoeconomics](https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669)
 Making Sense of Cryptoeconomics by Josh Stark
 1.  [What is Cryptoeconomics](https://blockgeeks.com/guides/what-is-cryptoeconomics/)
@@ -26,23 +26,18 @@ What is Cryptoeconomics, a guide by BlockGeeks
 
 ### Videos
 
-Vlad Zamfir - What is cryptoeconomics  
-https://www.youtube.com/watch?v=9lw3s7iGUXQ
+1. [DevCon 3 - 5:05 Programmable Incentives ](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Karl Tech
 
-Vitalik Buterin - Introduction to cryptoeconomics
-https://www.youtube.com/watch?v=pKqdjaH1dRo
+1. [What is Cryptoeconomics](https://www.youtube.com/watch?v=9lw3s7iGUXQ) Vlad Zamir
 
-and the corresponding presentation
-https://edcon.io/ppt/one/Vitalik%20Buterin_Introduction%20to%20Cryptoeconomics_EDCON.pdf
+1. [Introduction to cryptoeconomics](https://www.youtube.com/watch?v=pKqdjaH1dRo)
+[Presentation](https://edcon.io/ppt/one/Vitalik%20Buterin_Introduction%20to%20Cryptoeconomics_EDCON.pdf)
 
-Vitalik Buterin - Hard problems in cryptoeconomics
-https://www.youtube.com/watch?v=p5qwbOkCZSc&t=2316s
+1. [Hard problems in cryptoeconomics](https://www.youtube.com/watch?v=p5qwbOkCZSc&t=2316s) Vitalik Buterin
 
-Vitalik Buterin - The cryptoeconomic way
-https://www.youtube.com/watch?v=ZH9nMKIHfAE
+1. [The cryptoeconomic way](https://www.youtube.com/watch?v=ZH9nMKIHfAE) Vitalik Buterin
 
-Vitalik Buterin - Cryptoeconomic Protocols
-https://www.slideshare.net/ethereum/vitalik-buterin-cryptoeconomic-protocols-in-the-context-of-wider-society
+1. [Cryptoeconomic Protocols](https://www.slideshare.net/ethereum/vitalik-buterin-cryptoeconomic-protocols-in-the-context-of-wider-society) Vitalik Buterin
 
 ### Empirical testing
 
@@ -82,8 +77,11 @@ https://etherreview.info/the-ether-review-2-vlad-zamfir-28f95afc8a3c
 
 #### Videos
 
-Karl Floresch presenting Casper
-https://www.youtube.com/watch?v=MyDocEQfBGA
+1. [DevCon 3 - 3:55 Verifying Casper ](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Yoichi Hirai
+
+1. [DevCon 3 - 5:55 Presentation Casper](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Vlad Zamir 
+
+1. [Presenting Casper](https://www.youtube.com/watch?v=MyDocEQfBGA) Karl Floresch
 
 ## Game Theory
 
