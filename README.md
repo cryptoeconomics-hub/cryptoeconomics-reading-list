@@ -139,6 +139,6 @@ We are experiencing one of the most exciting times in history as we have now the
 * [Overview on the Raiden Network](https://hackernoon.com/raiden-network-developer-preview-dad83ec3fc23)
 
 #### Videos
-* [DevCon 3 - 3:45 The Raiden Network -tec.  introduction](https://www.youtube.com/watch?v=aMs0wAFIu7I) Augusto Hack, Jannik Luhn, Loredena Cirstea 
+* [DevCon 3 - 3:45 The Raiden Network, a tecnical introduction](https://www.youtube.com/watch?v=aMs0wAFIu7I) Augusto Hack, Jannik Luhn, Loredena Cirstea 
 * [Presenting Raiden Network](https://www.youtube.com/watch?v=JuVP4iDVkoQ&index=4&list=PLaM7G4Llrb7wPiT2G75tj2JQr8qg6P5hi) Lefteris Karapetsas
 * [State Channels explained in detail](https://www.youtube.com/watch?v=MEL50CVOcH4) Ameen Soleimani
