@@ -19,7 +19,6 @@ A list of links, videos and other sources regarding Cryptoeconomics.
 Josh Stark
 * [What is Cryptoeconomics](https://blockgeeks.com/guides/what-is-cryptoeconomics/)
 BlockGeeks
-* [How Society Will Be Transformed By CryptoEconomics](https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c)
 * [Paving the Future of Blockchain Technology](https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971)
 * [Summary on CryptoEconomics](https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669)
 * [Why Cryptoeconomics and X-Risk Researchers Should Listen to Each Other More](https://medium.com/@VitalikButerin/why-cryptoeconomics-and-x-risk-researchers-should-listen-to-each-other-more-a2db72b3e86b)
