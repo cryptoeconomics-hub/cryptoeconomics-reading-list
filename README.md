@@ -27,16 +27,11 @@ BlockGeeks
 ### Videos
 
 1. [DevCon 3 - 5:05 Programmable Incentives ](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Karl Tech
-
 1. [What is Cryptoeconomics](https://www.youtube.com/watch?v=9lw3s7iGUXQ) Vlad Zamir
-
 1. [Introduction to cryptoeconomics](https://www.youtube.com/watch?v=pKqdjaH1dRo)
 [Presentation](https://edcon.io/ppt/one/Vitalik%20Buterin_Introduction%20to%20Cryptoeconomics_EDCON.pdf) Vitalik Buterin
-
 1. [Hard problems in cryptoeconomics](https://www.youtube.com/watch?v=p5qwbOkCZSc&t=2316s) Vitalik Buterin
-
 1. [The cryptoeconomic way](https://www.youtube.com/watch?v=ZH9nMKIHfAE) Vitalik Buterin
-
 1. [Cryptoeconomic Protocols](https://www.slideshare.net/ethereum/vitalik-buterin-cryptoeconomic-protocols-in-the-context-of-wider-society) Vitalik Buterin
 
 ### Empirical testing
@@ -45,14 +40,10 @@ BlockGeeks
 
 ### Other
 
-1. [How manipulation-resistant are Prediction Markets? Our Undertaking in Empirical Cryptoeconomics](https://blog.gnosis.pm/how-manipulation-resistant-are-prediction-markets-710e14033d62) Gnosis
-
-1. [Exposition on cryptoeconomics](https://www.mqw.at/en/program//programmdetail/crypto-economic-artefacts-1/) 
+1. [Exposition on cryptoeconomics](https://www.mqw.at/en/program//programmdetail/crypto-economic-artefacts-1/)
 RIAT - Institute for Future Cryptoeconomics
-
 1. [Research group on cryptoeconomics](https://riat.at/Cryptoeconomics/)
 RIAT - Institute for Future Cryptoeconomics
-
 1. [Abstract video on cryptoeconomics](https://www.reddit.com/r/ethtrader/comments/6xp7q5/i_think_i_seriously_just_figured_out_all_of/?st=J74IGNOF&sh=c06637cb)
 
 ## Consensus Algorithms
@@ -68,9 +59,7 @@ https://arxiv.org/pdf/1707.01873.pdf
 ### PoS - Proof of Stake  
 
 1. [Casper, Ethereum's secret weapon for dealing with "blockchain cartels" and why $100+ ETH isn't entirely unreasonable](  https://steemit.com/ethereum/@dana-edwards/casper-ethereum-s-secret-weapon-for-dealing-with-blockchain-cartels-and-why-usd100-eth-isn-t-entirely-unreasonable)
-
 1. [Questions on PoS](  https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
-
 1. [A Proof of Stake Design Philosophy]( https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51) Vitalik Buterin
 
 #### Podcasts
@@ -81,9 +70,7 @@ https://etherreview.info/the-ether-review-2-vlad-zamfir-28f95afc8a3c
 #### Videos
 
 1. [DevCon 3 - 3:55 Verifying Casper ](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Yoichi Hirai
-
 1. [DevCon 3 - 5:55 Presentation Casper](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Vlad Zamir
-
 1. [Presenting Casper](https://www.youtube.com/watch?v=MyDocEQfBGA) Karl Floresch
 
 ## Game Theory
