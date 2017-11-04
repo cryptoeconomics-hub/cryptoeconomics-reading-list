@@ -41,16 +41,19 @@ BlockGeeks
 
 ### Empirical testing
 
-How manipulation-resistant are Prediction Markets? Our Undertaking in Empirical Cryptoeconomics by Gnosis
-https://blog.gnosis.pm/how-manipulation-resistant-are-prediction-markets-710e14033d62
+1. [How manipulation-resistant are Prediction Markets? Our Undertaking in Empirical Cryptoeconomics](https://blog.gnosis.pm/how-manipulation-resistant-are-prediction-markets-710e14033d62) Gnosis
 
 ### Other
 
-Exposition on cryptoeconomics
-https://www.mqw.at/en/program//programmdetail/crypto-economic-artefacts-1/
+1. [How manipulation-resistant are Prediction Markets? Our Undertaking in Empirical Cryptoeconomics](https://blog.gnosis.pm/how-manipulation-resistant-are-prediction-markets-710e14033d62) Gnosis
 
-Abstract video on cryptoeconomics
-https://www.reddit.com/r/ethtrader/comments/6xp7q5/i_think_i_seriously_just_figured_out_all_of/?st=J74IGNOF&sh=c06637cb
+1. [Exposition on cryptoeconomics](https://www.mqw.at/en/program//programmdetail/crypto-economic-artefacts-1/) 
+RIAT - Institute for Future Cryptoeconomics
+
+1. [Research group on cryptoeconomics](https://riat.at/Cryptoeconomics/)
+RIAT - Institute for Future Cryptoeconomics
+
+1. [Abstract video on cryptoeconomics](https://www.reddit.com/r/ethtrader/comments/6xp7q5/i_think_i_seriously_just_figured_out_all_of/?st=J74IGNOF&sh=c06637cb)
 
 ## Consensus Algorithms
 
