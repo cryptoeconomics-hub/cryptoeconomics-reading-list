@@ -144,10 +144,10 @@ Andreas Antonopoulos
 
 ### Overview
 
-1. [Compact and very well explained definition](http://www.jeffcoleman.ca/state-channels/)
-1. [Overview on the Raiden Network](https://hackernoon.com/raiden-network-developer-preview-dad83ec3fc23)
+* [Compact and very well explained definition](http://www.jeffcoleman.ca/state-channels/)
+* [Overview on the Raiden Network](https://hackernoon.com/raiden-network-developer-preview-dad83ec3fc23)
 
 #### Videos
 
-1. [Presenting Raiden Network]( https://www.youtube.com/watch?v=JuVP4iDVkoQ&index=4&list=PLaM7G4Llrb7wPiT2G75tj2JQr8qg6P5hi) Lefteris Karapetsas
-1. [State Channels explained in detail]( https://www.youtube.com/watch?v=MEL50CVOcH4) Ameen Soleimani
+* [Presenting Raiden Network]( https://www.youtube.com/watch?v=JuVP4iDVkoQ&index=4&list=PLaM7G4Llrb7wPiT2G75tj2JQr8qg6P5hi) Lefteris Karapetsas
+* [State Channels explained in detail]( https://www.youtube.com/watch?v=MEL50CVOcH4) Ameen Soleimani
