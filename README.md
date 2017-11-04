@@ -16,9 +16,9 @@ A list of links, videos and other sources regarding Cryptoeconomics.
 1.  [Cryptoeconomics for dummies](https://medium.com/@j32804/cryptoeconomics-for-dummies-part-0-7172efa81507)
 1.  [Cryptoeconomics 101](http://slides.com/ethereummadrid/cryptoeconomics101-stablecoin#/) Ethereum Madrid
 1.  [Making Sense of Cryptoeconomics](https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669)
-Making Sense of Cryptoeconomics by Josh Stark
+Josh Stark
 1.  [What is Cryptoeconomics](https://blockgeeks.com/guides/what-is-cryptoeconomics/)
-What is Cryptoeconomics, a guide by BlockGeeks
+BlockGeeks
 1.  [How Society Will Be Transformed By CryptoEconomics](https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c)
 1.  [Paving the Future of Blockchain Technology](https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971)
 1. [Summary on CryptoEconomics](https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669)
@@ -31,7 +31,7 @@ What is Cryptoeconomics, a guide by BlockGeeks
 1. [What is Cryptoeconomics](https://www.youtube.com/watch?v=9lw3s7iGUXQ) Vlad Zamir
 
 1. [Introduction to cryptoeconomics](https://www.youtube.com/watch?v=pKqdjaH1dRo)
-[Presentation](https://edcon.io/ppt/one/Vitalik%20Buterin_Introduction%20to%20Cryptoeconomics_EDCON.pdf)
+[Presentation](https://edcon.io/ppt/one/Vitalik%20Buterin_Introduction%20to%20Cryptoeconomics_EDCON.pdf) Vitalik Buterin
 
 1. [Hard problems in cryptoeconomics](https://www.youtube.com/watch?v=p5qwbOkCZSc&t=2316s) Vitalik Buterin
 
@@ -68,7 +68,7 @@ https://arxiv.org/pdf/1707.01873.pdf
 
 1. [Questions on PoS](  https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
 
-1. [“A Proof of Stake Design Philosophy” by Vitalik Buterin]( https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51)
+1. [A Proof of Stake Design Philosophy]( https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51) Vitalik Buterin
 
 #### Podcasts
 
@@ -79,7 +79,7 @@ https://etherreview.info/the-ether-review-2-vlad-zamfir-28f95afc8a3c
 
 1. [DevCon 3 - 3:55 Verifying Casper ](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Yoichi Hirai
 
-1. [DevCon 3 - 5:55 Presentation Casper](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Vlad Zamir 
+1. [DevCon 3 - 5:55 Presentation Casper](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Vlad Zamir
 
 1. [Presenting Casper](https://www.youtube.com/watch?v=MyDocEQfBGA) Karl Floresch
 
@@ -129,8 +129,6 @@ https://medium.com/@chrshmmmr/a-guide-to-dishonesty-on-pow-blockchains-when-does
 
 Podcast from 2015 on PoW - attacks
 https://letstalkbitcoin.com/blog/post/epicenter-bitcoin-68-kamikaze-attack-block-halving-and-the-perils-of-proof-of-work
-
-
 
 ### 51% Attack
 
