@@ -58,7 +58,7 @@ We are experiencing one of the most exciting times in history as we have now the
 
 #### Videos
 
-* [DevCon 3 - 3:55 Verifying Casper ](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Yoichi Hirai
+* [DevCon 3 - 3:55 Verifying Casper](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Yoichi Hirai
 * [DevCon 3 - 5:55 Presentation Casper](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Vlad Zamfir
 * [DevCon 3 - 6.23 Panel on Casper and distributed consensus](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Vitalik Buterin, Vlad Zamir, Emin Gun Sirer, Peter Czaban,  Elaine Shi
 * [Presenting Casper](https://www.youtube.com/watch?v=MyDocEQfBGA) Karl Floresch
@@ -68,6 +68,7 @@ We are experiencing one of the most exciting times in history as we have now the
 ### Overview
 
 * [What is Cryptocurrency Game Theory: A Basic introduction](https://blockgeeks.com/guides/cryptocurrency-game-theory/)
+* [The Evolution of Trust: an interactive guide to the game theory of why & how we trust each other](http://ncase.me/trust/)
 
 ### Schelling Point
 
@@ -138,6 +139,6 @@ We are experiencing one of the most exciting times in history as we have now the
 * [Overview on the Raiden Network](https://hackernoon.com/raiden-network-developer-preview-dad83ec3fc23)
 
 #### Videos
-
+* [DevCon 3 - 3:45 The Raiden Network -tec.  introduction](https://www.youtube.com/watch?v=aMs0wAFIu7I) Augusto Hack, Jannik Luhn, Loredena Cirstea 
 * [Presenting Raiden Network](https://www.youtube.com/watch?v=JuVP4iDVkoQ&index=4&list=PLaM7G4Llrb7wPiT2G75tj2JQr8qg6P5hi) Lefteris Karapetsas
 * [State Channels explained in detail](https://www.youtube.com/watch?v=MEL50CVOcH4) Ameen Soleimani
