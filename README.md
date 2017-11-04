@@ -2,6 +2,8 @@
 
 We are experiencing one of the most exciting times in history as we have now the opportunity to create a whole new society. This society will be based on the believe and concept of empowering the individuals in order to open up an un-considered, un-used and un-valued potential in the people and the community. Cryptoeconomics is one of these important new research fields which combines the ideas behind game theory and cryptography for managing in an autonomous way the interactions of people/machines hence nodes in the decentralised world.
 
+<!-- /MarkdownTOC -->
+
 # Cryptoeconomics Reading List
 
 A list of links, videos and other sources regarding Cryptoeconomics.
@@ -10,28 +12,17 @@ A list of links, videos and other sources regarding Cryptoeconomics.
 
 ### Articles
 
-[How Society Will Be Transformed By CryptoEconomics](https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c)
-
-1.  
-[Cryptoeconomics for dummies](https://medium.com/@j32804/cryptoeconomics-for-dummies-part-0-7172efa81507)
-1.  
-[Ethereum Madrid's Cryptoeconomics 101](http://slides.com/ethereummadrid/cryptoeconomics101-stablecoin#/) Ethereum Madrid
-1.  
-[Cryptoeconomics 101](https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff)
-1.  
-[Making Sense of Cryptoeconomics](https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669)
+1. [How Society Will Be Transformed By CryptoEconomics](https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c)
+1.  [Cryptoeconomics for dummies](https://medium.com/@j32804/cryptoeconomics-for-dummies-part-0-7172efa81507)
+1.  [Ethereum Madrid's Cryptoeconomics 101](http://slides.com/ethereummadrid/cryptoeconomics101-stablecoin#/) Ethereum Madrid
+1.  [Making Sense of Cryptoeconomics](https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669)
 Making Sense of Cryptoeconomics by Josh Stark
-1.  
-[What is Cryptoeconomics](https://blockgeeks.com/guides/what-is-cryptoeconomics/)
+1.  [What is Cryptoeconomics](https://blockgeeks.com/guides/what-is-cryptoeconomics/)
 What is Cryptoeconomics, a guide by BlockGeeks
-1.  
-[How Society Will Be Transformed By CryptoEconomics](https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c)
-1.  
-[Paving the Future of Blockchain Technology](https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971)
-1.
-[Summary on CryptoEconomics](https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669)
-1.
-[Why Cryptoeconomics and X-Risk Researchers Should Listen to Each Other More](https://medium.com/@VitalikButerin/why-cryptoeconomics-and-x-risk-researchers-should-listen-to-each-other-more-a2db72b3e86b)
+1.  [How Society Will Be Transformed By CryptoEconomics](https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c)
+1.  [Paving the Future of Blockchain Technology](https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971)
+1. [Summary on CryptoEconomics](https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669)
+1. [Why Cryptoeconomics and X-Risk Researchers Should Listen to Each Other More](https://medium.com/@VitalikButerin/why-cryptoeconomics-and-x-risk-researchers-should-listen-to-each-other-more-a2db72b3e86b)
 
 ### Videos
 
@@ -78,15 +69,11 @@ https://arxiv.org/pdf/1707.01873.pdf
 
 ### PoS - Proof of Stake  
 
-1.
-[Casper, Ethereum's secret weapon for dealing with "blockchain cartels" and why $100+ ETH isn't entirely unreasonable](  https://steemit.com/ethereum/@dana-edwards/casper-ethereum-s-secret-weapon-for-dealing-with-blockchain-cartels-and-why-usd100-eth-isn-t-entirely-unreasonable)
+1. [Casper, Ethereum's secret weapon for dealing with "blockchain cartels" and why $100+ ETH isn't entirely unreasonable](  https://steemit.com/ethereum/@dana-edwards/casper-ethereum-s-secret-weapon-for-dealing-with-blockchain-cartels-and-why-usd100-eth-isn-t-entirely-unreasonable)
 
-1.
-[Questions on PoS](  
-https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
+1. [Questions on PoS](  https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
 
-1.
-[“A Proof of Stake Design Philosophy” by Vitalik Buterin]( https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51)
+1. [“A Proof of Stake Design Philosophy” by Vitalik Buterin]( https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51)
 
 #### Podcasts
 
