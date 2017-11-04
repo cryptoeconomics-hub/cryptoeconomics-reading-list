@@ -2,12 +2,6 @@
 
 We are experiencing one of the most exciting times in history as we have now the opportunity to create a whole new society. This society will be based on the believe and concept of empowering the individuals in order to open up an un-considered, un-used and un-valued potential in the people and the community. Cryptoeconomics is one of these important new research fields which combines the ideas behind game theory and cryptography for managing in an autonomous way the interactions of people/machines hence nodes in the decentralised world.
 
-<!-- /MarkdownTOC -->
-
-# Cryptoeconomics Reading List
-
-A list of links, videos and other sources regarding Cryptoeconomics.
-
 ## Cryptoeconomics
 
 ### Articles
@@ -15,18 +9,16 @@ A list of links, videos and other sources regarding Cryptoeconomics.
 * [How Society Will Be Transformed By CryptoEconomics](https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c)
 * [Cryptoeconomics for dummies](https://medium.com/@j32804/cryptoeconomics-for-dummies-part-0-7172efa81507)
 * [Cryptoeconomics 101](http://slides.com/ethereummadrid/cryptoeconomics101-stablecoin#/) Ethereum Madrid
-* [Making Sense of Cryptoeconomics](https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669)
-Josh Stark
-* [What is Cryptoeconomics](https://blockgeeks.com/guides/what-is-cryptoeconomics/)
-BlockGeeks
+* [Making Sense of Cryptoeconomics](https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669) Josh Stark
+* [What is Cryptoeconomics](https://blockgeeks.com/guides/what-is-cryptoeconomics/) BlockGeeks
 * [Paving the Future of Blockchain Technology](https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971)
 * [Summary on CryptoEconomics](https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669)
 * [Why Cryptoeconomics and X-Risk Researchers Should Listen to Each Other More](https://medium.com/@VitalikButerin/why-cryptoeconomics-and-x-risk-researchers-should-listen-to-each-other-more-a2db72b3e86b)
 
 ### Videos
 
-* [DevCon 3 - 5:05 Programmable Incentives ](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Karl Floresch
-* [What is Cryptoeconomics](https://www.youtube.com/watch?v=9lw3s7iGUXQ) Vlad Zamir
+* [DevCon 3 - 5:05 Programmable Incentives](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Karl Floresch
+* [What is Cryptoeconomics](https://www.youtube.com/watch?v=9lw3s7iGUXQ) Vlad Zamfir
 * [Introduction to cryptoeconomics](https://www.youtube.com/watch?v=pKqdjaH1dRo)
 [Presentation](https://edcon.io/ppt/one/Vitalik%20Buterin_Introduction%20to%20Cryptoeconomics_EDCON.pdf) Vitalik Buterin
 * [Hard problems in cryptoeconomics](https://www.youtube.com/watch?v=p5qwbOkCZSc&t=2316s) Vitalik Buterin
@@ -39,38 +31,35 @@ BlockGeeks
 
 ### Other
 
-* [Exposition on cryptoeconomics](https://www.mqw.at/en/program//programmdetail/crypto-economic-artefacts-1/)
-RIAT - Institute for Future Cryptoeconomics
-* [Research group on cryptoeconomics](https://riat.at/Cryptoeconomics/)
-RIAT - Institute for Future Cryptoeconomics
+* [Exposition on cryptoeconomics](https://www.mqw.at/en/program//programmdetail/crypto-economic-artefacts-1/) RIAT - Institute for Future Cryptoeconomics
+* [Research group on cryptoeconomics](https://riat.at/Cryptoeconomics/) RIAT - Institute for Future Cryptoeconomics
 * [Abstract video on cryptoeconomics](https://www.reddit.com/r/ethtrader/comments/6xp7q5/i_think_i_seriously_just_figured_out_all_of/?st=J74IGNOF&sh=c06637cb)
 
 ## Consensus Algorithms
 
 ### Overview
 
-* [Consensus algorithms for permissioned blockchains](https://arxiv.org/pdf/1707.01873.pdf)
-IBM research
+* [Consensus algorithms for permissioned blockchains](https://arxiv.org/pdf/1707.01873.pdf) IBM research
 
 ### PoS - Proof of Work
 
-* [Consensus Algorithm PoW](https://www.youtube.com/watch?v=fw3WkySh_Ho&t=3606s)
-Andreas Antonopoulos
+* [Consensus Algorithm PoW](https://www.youtube.com/watch?v=fw3WkySh_Ho&t=3606s) Andreas Antonopoulos
 
 ### PoW - Proof of Stake   
 
 * [Casper, Ethereum's secret weapon for dealing with "blockchain cartels" and why $100+ ETH isn't entirely unreasonable](  https://steemit.com/ethereum/@dana-edwards/casper-ethereum-s-secret-weapon-for-dealing-with-blockchain-cartels-and-why-usd100-eth-isn-t-entirely-unreasonable)
-* [Questions on PoS](  https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
-* [A Proof of Stake Design Philosophy]( https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51) Vitalik Buterin
+* [Questions on PoS](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
+* [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51) Vitalik Buterin
 
 #### Podcasts
 
-* [Answering questions about Casper]( https://etherreview.info/the-ether-review-2-vlad-zamfir-28f95afc8a3c) Vlad Zamir
+* [Answering questions about Casper](https://etherreview.info/the-ether-review-2-vlad-zamfir-28f95afc8a3c) Vlad Zamfir
+* [Cryptoeconomics, Stablecoins, Casper](https://softwareengineeringdaily.com/2017/10/28/cryptoeconomics-with-vlad-zamfir/) Vlad Zamfir
 
 #### Videos
 
 * [DevCon 3 - 3:55 Verifying Casper ](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Yoichi Hirai
-* [DevCon 3 - 5:55 Presentation Casper](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Vlad Zamir
+* [DevCon 3 - 5:55 Presentation Casper](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Vlad Zamfir
 * [Presenting Casper](https://www.youtube.com/watch?v=MyDocEQfBGA) Karl Floresch
 
 ## Game Theory
@@ -109,7 +98,7 @@ Andreas Antonopoulos
 
 ### Nothing at stake Attack  
 
-### 5% wrench Attack
+### $5 wrench Attack
 
 * [Comic](https://xkcd.com/538/)
 
@@ -149,5 +138,5 @@ Andreas Antonopoulos
 
 #### Videos
 
-* [Presenting Raiden Network]( https://www.youtube.com/watch?v=JuVP4iDVkoQ&index=4&list=PLaM7G4Llrb7wPiT2G75tj2JQr8qg6P5hi) Lefteris Karapetsas
-* [State Channels explained in detail]( https://www.youtube.com/watch?v=MEL50CVOcH4) Ameen Soleimani
+* [Presenting Raiden Network](https://www.youtube.com/watch?v=JuVP4iDVkoQ&index=4&list=PLaM7G4Llrb7wPiT2G75tj2JQr8qg6P5hi) Lefteris Karapetsas
+* [State Channels explained in detail](https://www.youtube.com/watch?v=MEL50CVOcH4) Ameen Soleimani
