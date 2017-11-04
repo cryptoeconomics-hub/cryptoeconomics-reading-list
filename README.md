@@ -26,7 +26,7 @@ BlockGeeks
 
 ### Videos
 
-1. [DevCon 3 - 5:05 Programmable Incentives ](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Karl Tech
+1. [DevCon 3 - 5:05 Programmable Incentives ](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Karl Floresch
 1. [What is Cryptoeconomics](https://www.youtube.com/watch?v=9lw3s7iGUXQ) Vlad Zamir
 1. [Introduction to cryptoeconomics](https://www.youtube.com/watch?v=pKqdjaH1dRo)
 [Presentation](https://edcon.io/ppt/one/Vitalik%20Buterin_Introduction%20to%20Cryptoeconomics_EDCON.pdf) Vitalik Buterin
@@ -106,7 +106,7 @@ Andreas Antonopoulos
 
 ### P + epsilon Attack  
 
-1. [Vitalik Buterin - P-epsilon-attack post written](https://blog.ethereum.org/2015/01/28/p-epsilon-attack/)
+1. [P-epsilon-attack post written](https://blog.ethereum.org/2015/01/28/p-epsilon-attack/) Vitalik Buterin
 
 ### Nothing at stake Attack  
 
@@ -124,20 +124,20 @@ Andreas Antonopoulos
 
 ### Existing Projects
 
-* MakerDAO: https://makerdao.com
-* VariabL: https://variabl.io
-* BitShares: https://bitshares.org
-* NuBit: https://www.nubits.com
+* [MakerDAO](https://makerdao.com)
+* [VariabL](https://variabl.io)
+* [BitShares](https://bitshares.org)
+* [NuBit](https://www.nubits.com)
 
 ### MakerDAO
 
-White Paper: https://github.com/makerdao/docs/blob/master/Dai.md
-Purple Paper: http://stablecoin.technology/purple.pdf
-Interviews with MakerDAO:
-* Epicenter: https://soundcloud.com/epicenterbitcoin/eb-124
-* EtherReview: https://soundcloud.com/arthurfalls/the-ether-review-20-maker-the
-* CoinFund: https://youtu.be/ZggkzPJ5Yt4
-An Experiment with Sai, a Simple Stablecoin: https://blog.makerdao.com/2017/06/05/introducing-sai/
+[White Paper](https://github.com/makerdao/docs/blob/master/Dai.md)
+[Purple Paper](http://stablecoin.technology/purple.pdf)
+Interviews with MakerDAO
+* [Epicenter](https://soundcloud.com/epicenterbitcoin/eb-124)
+* [EtherReview](https://soundcloud.com/arthurfalls/the-ether-review-20-maker-the)
+* [CoinFund](https://youtu.be/ZggkzPJ5Yt4)
+[An Experiment with Sai, a Simple Stablecoin](https://blog.makerdao.com/2017/06/05/introducing-sai/)
 
 ## State Channels
 
