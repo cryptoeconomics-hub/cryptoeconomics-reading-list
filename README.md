@@ -53,12 +53,12 @@ RIAT - Institute for Future Cryptoeconomics
 1. [Consensus algorithms for permissioned blockchains](https://arxiv.org/pdf/1707.01873.pdf)
 IBM research
 
-### PoS - Proof of Stake
+### PoS - Proof of Work
 
 1. [Consensus Algorithm PoW](https://www.youtube.com/watch?v=fw3WkySh_Ho&t=3606s)
 Andreas Antonopoulos
 
-### PoW - Proof of Work  
+### PoW - Proof of Stake   
 
 1. [Casper, Ethereum's secret weapon for dealing with "blockchain cartels" and why $100+ ETH isn't entirely unreasonable](  https://steemit.com/ethereum/@dana-edwards/casper-ethereum-s-secret-weapon-for-dealing-with-blockchain-cartels-and-why-usd100-eth-isn-t-entirely-unreasonable)
 1. [Questions on PoS](  https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
@@ -66,8 +66,7 @@ Andreas Antonopoulos
 
 #### Podcasts
 
-Vlad Zamfir answering questions regarding Casper
-https://etherreview.info/the-ether-review-2-vlad-zamfir-28f95afc8a3c
+1. [Answering questions about Casper]( https://etherreview.info/the-ether-review-2-vlad-zamfir-28f95afc8a3c) Vlad Zamir
 
 #### Videos
 
@@ -79,77 +78,49 @@ https://etherreview.info/the-ether-review-2-vlad-zamfir-28f95afc8a3c
 
 ### Overview
 
-What is Cryptocurrency Game Theory: A Basic introduction
-https://blockgeeks.com/guides/cryptocurrency-game-theory/
+1. [What is Cryptocurrency Game Theory: A Basic introduction](https://blockgeeks.com/guides/cryptocurrency-game-theory/)
 
 ### Schelling Point
 
-Introduction to the concept of Schelling Point
-http://wisdomofcrowds.blogspot.com.es/2010/02/chapter-five-part-iii.html
-
-The Schelling Point & Networks
-https://media.consensys.net/hashtag-markets-mashing-together-reddit-schelling-points-tokenisation-autonomous-organisations-ceec3cd3baf0
-
-Vitalik Buterin- Explaining the concept of SchellingCoin to create a decentralized oracle
-https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-data-feed/
-
-Vitalik Buterin - Explaining the contract step by step behind SchellingCoin
-https://blog.ethereum.org/2014/06/30/advanced-contract-programming-example-schellingcoin/
-
-New approach to SchellingCoin as the distance to the median
-https://medium.com/@roman.brodetski/introducing-oracul-decentralized-oracle-data-feed-solution-for-ethereum-5cab1ca8bb64
+1. [Introduction to the concept of Schelling Point](http://wisdomofcrowds.blogspot.com.es/2010/02/chapter-five-part-iii.html)
+1. [The Schelling Point & Networks](https://media.consensys.net/hashtag-markets-mashing-together-reddit-schelling-points-tokenisation-autonomous-organisations-ceec3cd3baf0)
+1. [Explaining the concept of SchellingCoin to create a decentralized oracle](https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-data-feed/) Vitalik Buterin
+1. [Explaining the contract step by step behind SchellingCoin](https://blog.ethereum.org/2014/06/30/advanced-contract-programming-example-schellingcoin/) Vitalik Buterin
+1. [New approach to SchellingCoin as the distance to the median](https://medium.com/@roman.brodetski/introducing-oracul-decentralized-oracle-data-feed-solution-for-ethereum-5cab1ca8bb64)
 
 ### Applied to Bitcoin Mining
 
-Game Theory approach behind the motivation for bitcoin mining (paper)
-http://ledger.pitt.edu/ojs/index.php/ledger/article/view/96/67
-
-Game Theory approach behind the motivation for bitcoin mining (video)
-https://www.youtube.com/watch?v=_VANRj3WpdY
+1. [Game Theory approach behind the motivation for bitcoin mining (paper)](http://ledger.pitt.edu/ojs/index.php/ledger/article/view/96/67)
+1. [Game Theory approach behind the motivation for bitcoin mining (video)](https://www.youtube.com/watch?v=_VANRj3WpdY)
 
 ## Attacks
 
 ### Overview
 
-Research Paper on the security model in PoW
-https://eprint.iacr.org/2016/555.pdf
-
-General article on how attacks work in PoW
-https://medium.com/@chrshmmmr/an-introduction-to-understanding-attacks-and-dishonesty-on-proof-of-work-blockchains-9e7f547ed4c8
-
-https://medium.com/@chrshmmmr/a-guide-to-dishonesty-on-pow-blockchains-when-does-double-spending-pays-off-4f1994074b52
-
-Podcast from 2015 on PoW - attacks
-https://letstalkbitcoin.com/blog/post/epicenter-bitcoin-68-kamikaze-attack-block-halving-and-the-perils-of-proof-of-work
+1. [Research Paper on the security model in PoW](https://eprint.iacr.org/2016/555.pdf)
+1. [General article on how attacks work in PoW - Part 1](https://medium.com/@chrshmmmr/an-introduction-to-understanding-attacks-and-dishonesty-on-proof-of-work-blockchains-9e7f547ed4c8)
+1. [General article on how attacks work in PoW - Part 2](https://medium.com/@chrshmmmr/a-guide-to-dishonesty-on-pow-blockchains-when-does-double-spending-pays-off-4f1994074b52)
+1. [Podcast from 2015 on PoW - attacks](https://letstalkbitcoin.com/blog/post/epicenter-bitcoin-68-kamikaze-attack-block-halving-and-the-perils-of-proof-of-work)
 
 ### 51% Attack
 
 ### P + epsilon Attack  
 
-Vitalik Buterin - P-epsilon-attack post written
-https://blog.ethereum.org/2015/01/28/p-epsilon-attack/
+1. [Vitalik Buterin - P-epsilon-attack post written](https://blog.ethereum.org/2015/01/28/p-epsilon-attack/)
 
 ### Nothing at stake Attack  
 
 ### 5% wrench Attack
 
-Comic
-https://xkcd.com/538/
-
-
+1. [Comic](https://xkcd.com/538/)
 
 ## Stablecoins
 
 ### Overview
 
-Volatility and Mass Adoption: 2 reasons we would benefit from a stablecoin
-https://medium.com/topl-blog/dangerous-volatility-and-why-we-need-a-stable-cryptocurrency-6d66dcd605f8
-
-Early thoughts on the search for stablecoin
-https://blog.ethereum.org/2014/11/11/search-stable-cryptocurrency/
-
-Article about different approaches to stabilize cryptocurrencies
-https://venturebeat.com/2017/06/17/heres-how-we-start-to-stabilize-bitcoin-ethereum/
+1. [Volatility and Mass Adoption: 2 reasons we would benefit from a stablecoin](https://medium.com/topl-blog/dangerous-volatility-and-why-we-need-a-stable-cryptocurrency-6d66dcd605f8)
+1. [Early thoughts on the search for stablecoin](https://blog.ethereum.org/2014/11/11/search-stable-cryptocurrency/)
+1. [Article about different approaches to stabilize cryptocurrencies](https://venturebeat.com/2017/06/17/heres-how-we-start-to-stabilize-bitcoin-ethereum/()
 
 ### Existing Projects
 
@@ -172,16 +143,10 @@ An Experiment with Sai, a Simple Stablecoin: https://blog.makerdao.com/2017/06/0
 
 ### Overview
 
-Compact and very well explained definition
-http://www.jeffcoleman.ca/state-channels/
-
-Overview on the Raiden Network
-https://hackernoon.com/raiden-network-developer-preview-dad83ec3fc23
+1. [Compact and very well explained definition](http://www.jeffcoleman.ca/state-channels/)
+1. [Overview on the Raiden Network](https://hackernoon.com/raiden-network-developer-preview-dad83ec3fc23)
 
 #### Videos
 
-Lefteris Karapetsas - Presenting in short the The Raiden Network
-https://www.youtube.com/watch?v=JuVP4iDVkoQ&index=4&list=PLaM7G4Llrb7wPiT2G75tj2JQr8qg6P5hi
-
-Ameen Soleimani - State Channels explained in detail
-https://www.youtube.com/watch?v=MEL50CVOcH4
+1. [Presenting Raiden Network]( https://www.youtube.com/watch?v=JuVP4iDVkoQ&index=4&list=PLaM7G4Llrb7wPiT2G75tj2JQr8qg6P5hi) Lefteris Karapetsas
+1. [State Channels explained in detail]( https://www.youtube.com/watch?v=MEL50CVOcH4) Ameen Soleimani
