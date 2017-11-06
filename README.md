@@ -89,6 +89,7 @@ We are experiencing one of the most exciting times in history as we have now the
 
 ### Overview
 
+* [Presentation on most common attacks in Bitcoin](http://www.cs.columbia.edu/~fernando/classes/cryptopuc2016-01/AnalyzingBitcoinSecurity.pdf)
 * [Research Paper on the security model in PoW](https://eprint.iacr.org/2016/555.pdf)
 * [General article on how attacks work in PoW - Part 1](https://medium.com/@chrshmmmr/an-introduction-to-understanding-attacks-and-dishonesty-on-proof-of-work-blockchains-9e7f547ed4c8)
 * [General article on how attacks work in PoW - Part 2](https://medium.com/@chrshmmmr/a-guide-to-dishonesty-on-pow-blockchains-when-does-double-spending-pays-off-4f1994074b52)
@@ -104,6 +105,16 @@ We are experiencing one of the most exciting times in history as we have now the
 * [P-epsilon-attack post written](https://blog.ethereum.org/2015/01/28/p-epsilon-attack/) Vitalik Buterin
 
 ### Nothing at stake Attack  
+
+### Sybil Attack
+
+### Double Spend Attack
+
+* [Research paper on hashrate-based double spend](https://arxiv.org/pdf/1402.2009v1.pdf)
+
+### Eclipse Attack
+
+* [Research Paper on eclipse attacks on Bitcoin Network](https://eprint.iacr.org/2015/263.pdf)
 
 ### $5 wrench Attack
 
