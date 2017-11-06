@@ -44,12 +44,14 @@ We are experiencing one of the most exciting times in history as we have now the
 ### PoS - Proof of Work
 
 * [Consensus Algorithm PoW](https://www.youtube.com/watch?v=fw3WkySh_Ho&t=3606s) Andreas Antonopoulos
+* [Discussion](https://ethereum.stackexchange.com/questions/tagged/proof-of-stake)
 
 ### PoW - Proof of Stake   
 
 * [Casper, Ethereum's secret weapon for dealing with "blockchain cartels" and why $100+ ETH isn't entirely unreasonable](  https://steemit.com/ethereum/@dana-edwards/casper-ethereum-s-secret-weapon-for-dealing-with-blockchain-cartels-and-why-usd100-eth-isn-t-entirely-unreasonable)
 * [Questions on PoS](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
 * [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51) Vitalik Buterin
+* [Critic on the PoS Philosophy explained by Vitalik](https://medium.com/@tuurdemeester/critique-of-buterins-a-proof-of-stake-design-philosophy-49fc9ebb36c6)
 
 #### Podcasts
 
@@ -62,6 +64,30 @@ We are experiencing one of the most exciting times in history as we have now the
 * [DevCon 3 - 5:55 Presentation Casper](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Vlad Zamfir
 * [DevCon 3 - 6.23 Panel on Casper and distributed consensus](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Vitalik Buterin, Vlad Zamir, Emin Gun Sirer, Peter Czaban,  Elaine Shi
 * [Presenting Casper](https://www.youtube.com/watch?v=MyDocEQfBGA) Karl Floresch
+
+## Attacks
+
+### Overview
+
+* [Research Paper on the security model in PoW](https://eprint.iacr.org/2016/555.pdf)
+* [General article on how attacks work in PoW - Part 1](https://medium.com/@chrshmmmr/an-introduction-to-understanding-attacks-and-dishonesty-on-proof-of-work-blockchains-9e7f547ed4c8)
+* [General article on how attacks work in PoW - Part 2](https://medium.com/@chrshmmmr/a-guide-to-dishonesty-on-pow-blockchains-when-does-double-spending-pays-off-4f1994074b52)
+* [Podcast from 2015 on PoW - attacks](https://letstalkbitcoin.com/blog/post/epicenter-bitcoin-68-kamikaze-attack-block-halving-and-the-perils-of-proof-of-work)
+
+### 51% Attack
+
+* [Bitcoin Wiki explanation](https://en.bitcoin.it/wiki/Majority_attack)
+* [Discussion](https://bitcoin.stackexchange.com/questions/tagged/majority-attack)
+
+### P + epsilon Attack  
+
+* [P-epsilon-attack post written](https://blog.ethereum.org/2015/01/28/p-epsilon-attack/) Vitalik Buterin
+
+### Nothing at stake Attack  
+
+### $5 wrench Attack
+
+* [Comic](https://xkcd.com/538/)
 
 ## Game Theory
 
@@ -81,27 +107,6 @@ We are experiencing one of the most exciting times in history as we have now the
 
 * [Game Theory approach behind the motivation for bitcoin mining (paper)](http://ledger.pitt.edu/ojs/index.php/ledger/article/view/96/67)
 * [Game Theory approach behind the motivation for bitcoin mining (video)](https://www.youtube.com/watch?v=_VANRj3WpdY)
-
-## Attacks
-
-### Overview
-
-* [Research Paper on the security model in PoW](https://eprint.iacr.org/2016/555.pdf)
-* [General article on how attacks work in PoW - Part 1](https://medium.com/@chrshmmmr/an-introduction-to-understanding-attacks-and-dishonesty-on-proof-of-work-blockchains-9e7f547ed4c8)
-* [General article on how attacks work in PoW - Part 2](https://medium.com/@chrshmmmr/a-guide-to-dishonesty-on-pow-blockchains-when-does-double-spending-pays-off-4f1994074b52)
-* [Podcast from 2015 on PoW - attacks](https://letstalkbitcoin.com/blog/post/epicenter-bitcoin-68-kamikaze-attack-block-halving-and-the-perils-of-proof-of-work)
-
-### 51% Attack
-
-### P + epsilon Attack  
-
-* [P-epsilon-attack post written](https://blog.ethereum.org/2015/01/28/p-epsilon-attack/) Vitalik Buterin
-
-### Nothing at stake Attack  
-
-### $5 wrench Attack
-
-* [Comic](https://xkcd.com/538/)
 
 ## Stablecoins
 
@@ -138,6 +143,6 @@ We are experiencing one of the most exciting times in history as we have now the
 * [Overview on the Raiden Network](https://hackernoon.com/raiden-network-developer-preview-dad83ec3fc23)
 
 #### Videos
-* [DevCon 3 - 3:45 The Raiden Network -tec.  introduction](https://www.youtube.com/watch?v=aMs0wAFIu7I) Augusto Hack, Jannik Luhn, Loredena Cirstea 
+* [DevCon 3 - 3:45 The Raiden Network -tec.  introduction](https://www.youtube.com/watch?v=aMs0wAFIu7I) Augusto Hack, Jannik Luhn, Loredena Cirstea
 * [Presenting Raiden Network](https://www.youtube.com/watch?v=JuVP4iDVkoQ&index=4&list=PLaM7G4Llrb7wPiT2G75tj2JQr8qg6P5hi) Lefteris Karapetsas
 * [State Channels explained in detail](https://www.youtube.com/watch?v=MEL50CVOcH4) Ameen Soleimani
