@@ -65,8 +65,6 @@ We are experiencing one of the most exciting times in history as we have now the
 * [DevCon 3 - 6.23 Panel on Casper and distributed consensus](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Vitalik Buterin, Vlad Zamir, Emin Gun Sirer, Peter Czaban,  Elaine Shi
 * [Presenting Casper](https://www.youtube.com/watch?v=MyDocEQfBGA) Karl Floresch
 
-<<<<<<< HEAD
-=======
 ## Game Theory
 
 ### Overview
@@ -87,7 +85,6 @@ We are experiencing one of the most exciting times in history as we have now the
 * [Game Theory approach behind the motivation for bitcoin mining (paper)](http://ledger.pitt.edu/ojs/index.php/ledger/article/view/96/67)
 * [Game Theory approach behind the motivation for bitcoin mining (video)](https://www.youtube.com/watch?v=_VANRj3WpdY)
 
->>>>>>> origin/master
 ## Attacks
 
 ### Overview
