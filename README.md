@@ -40,6 +40,7 @@ We are experiencing one of the most exciting times in history as we have now the
 ### Overview
 
 * [Consensus algorithms for permissioned blockchains](https://arxiv.org/pdf/1707.01873.pdf) IBM research
+* [Research Paper PoS vs. Pow](http://bitfury.com/content/5-white-papers-research/pos-vs-pow-1.0.2.pdf)
 
 ### PoS - Proof of Work
 
@@ -94,11 +95,16 @@ We are experiencing one of the most exciting times in history as we have now the
 * [General article on how attacks work in PoW - Part 1](https://medium.com/@chrshmmmr/an-introduction-to-understanding-attacks-and-dishonesty-on-proof-of-work-blockchains-9e7f547ed4c8)
 * [General article on how attacks work in PoW - Part 2](https://medium.com/@chrshmmmr/a-guide-to-dishonesty-on-pow-blockchains-when-does-double-spending-pays-off-4f1994074b52)
 * [Podcast from 2015 on PoW - attacks](https://letstalkbitcoin.com/blog/post/epicenter-bitcoin-68-kamikaze-attack-block-halving-and-the-perils-of-proof-of-work)
+* [Vulnerability in PoW vs. PoS](https://medium.com/@robertgreenfieldiv/vulnerability-proof-of-work-vs-proof-of-stake-f0c44807d18c)
 
 ### 51% Attack
 
 * [Bitcoin Wiki explanation](https://en.bitcoin.it/wiki/Majority_attack)
 * [Discussion](https://bitcoin.stackexchange.com/questions/tagged/majority-attack)
+
+### Selfish Mining
+
+* [How does selfish mining works ](https://bitcoinmagazine.com/articles/selfish-mining-a-25-attack-against-the-bitcoin-network-1383578440/) Vitalik Buterin 
 
 ### P + epsilon Attack  
 
@@ -174,10 +180,6 @@ We are experiencing one of the most exciting times in history as we have now the
 * [Overview on the Raiden Network](https://hackernoon.com/raiden-network-developer-preview-dad83ec3fc23)
 
 #### Videos
-<<<<<<< HEAD
-* [DevCon 3 - 3:45 The Raiden Network -tec.  introduction](https://www.youtube.com/watch?v=aMs0wAFIu7I) Augusto Hack, Jannik Luhn, Loredena Cirstea
-=======
 * [DevCon 3 - 3:45 The Raiden Network, a tecnical introduction](https://www.youtube.com/watch?v=aMs0wAFIu7I) Augusto Hack, Jannik Luhn, Loredena Cirstea
->>>>>>> origin/master
 * [Presenting Raiden Network](https://www.youtube.com/watch?v=JuVP4iDVkoQ&index=4&list=PLaM7G4Llrb7wPiT2G75tj2JQr8qg6P5hi) Lefteris Karapetsas
 * [State Channels explained in detail](https://www.youtube.com/watch?v=MEL50CVOcH4) Ameen Soleimani
