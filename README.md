@@ -49,6 +49,7 @@ We are experiencing one of the most exciting times in history as we have now the
 
 ### PoW - Proof of Stake   
 
+* [Extended Summary on Casper](https://medium.com/@jonchoi/ethereum-casper-101-7a851a4f1eb0)
 * [Casper, Ethereum's secret weapon for dealing with "blockchain cartels" and why $100+ ETH isn't entirely unreasonable](  https://steemit.com/ethereum/@dana-edwards/casper-ethereum-s-secret-weapon-for-dealing-with-blockchain-cartels-and-why-usd100-eth-isn-t-entirely-unreasonable)
 * [Questions on PoS](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
 * [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51) Vitalik Buterin
@@ -104,7 +105,7 @@ We are experiencing one of the most exciting times in history as we have now the
 
 ### Selfish Mining
 
-* [How does selfish mining works ](https://bitcoinmagazine.com/articles/selfish-mining-a-25-attack-against-the-bitcoin-network-1383578440/) Vitalik Buterin 
+* [How does selfish mining works ](https://bitcoinmagazine.com/articles/selfish-mining-a-25-attack-against-the-bitcoin-network-1383578440/) Vitalik Buterin
 
 ### P + epsilon Attack  
 
