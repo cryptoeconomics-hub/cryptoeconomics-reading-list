@@ -91,6 +91,7 @@ We are experiencing one of the most exciting times in history as we have now the
 
 ### Overview
 
+* [Game theory and Network Attacks- How to destroy Bitcoin ](https://www.youtube.com/watch?v=UPxaCj8ZsEU)
 * [Presentation on most common attacks in Bitcoin](http://www.cs.columbia.edu/~fernando/classes/cryptopuc2016-01/AnalyzingBitcoinSecurity.pdf)
 * [Research Paper on the security model in PoW](https://eprint.iacr.org/2016/555.pdf)
 * [General article on how attacks work in PoW - Part 1](https://medium.com/@chrshmmmr/an-introduction-to-understanding-attacks-and-dishonesty-on-proof-of-work-blockchains-9e7f547ed4c8)
