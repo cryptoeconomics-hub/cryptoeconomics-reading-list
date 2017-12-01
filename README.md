@@ -24,6 +24,8 @@ We are experiencing one of the most exciting times in history as we have now the
 * [Hard problems in cryptoeconomics](https://www.youtube.com/watch?v=p5qwbOkCZSc&t=2316s) Vitalik Buterin
 * [The cryptoeconomic way](https://www.youtube.com/watch?v=ZH9nMKIHfAE) Vitalik Buterin
 * [Cryptoeconomic Protocols](https://www.slideshare.net/ethereum/vitalik-buterin-cryptoeconomic-protocols-in-the-context-of-wider-society) Vitalik Buterin
+* [Global Scale Research Networks and Cryptoeconomics](https://www.youtube.com/watch?v=G9Bp56y3X8U) Shin’ichiro Matsuo
+
 
 ### Empirical testing
 
@@ -34,6 +36,10 @@ We are experiencing one of the most exciting times in history as we have now the
 * [Exposition on cryptoeconomics](https://www.mqw.at/en/program//programmdetail/crypto-economic-artefacts-1/) RIAT - Institute for Future Cryptoeconomics
 * [Research group on cryptoeconomics](https://riat.at/Cryptoeconomics/) RIAT - Institute for Future Cryptoeconomics
 * [Abstract video on cryptoeconomics](https://www.reddit.com/r/ethtrader/comments/6xp7q5/i_think_i_seriously_just_figured_out_all_of/?st=J74IGNOF&sh=c06637cb)
+* [CECS - CryptoEconomics Security Conference](https://cesc.io)
+
+
+
 
 ## Consensus Algorithms
 
