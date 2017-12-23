@@ -38,9 +38,6 @@ We are experiencing one of the most exciting times in history as we have now the
 * [Abstract video on cryptoeconomics](https://www.reddit.com/r/ethtrader/comments/6xp7q5/i_think_i_seriously_just_figured_out_all_of/?st=J74IGNOF&sh=c06637cb)
 * [CECS - CryptoEconomics Security Conference](https://cesc.io)
 
-
-
-
 ## Consensus Algorithms
 
 ### Overview
@@ -48,12 +45,12 @@ We are experiencing one of the most exciting times in history as we have now the
 * [Consensus algorithms for permissioned blockchains](https://arxiv.org/pdf/1707.01873.pdf) IBM research
 * [Research Paper PoS vs. Pow](http://bitfury.com/content/5-white-papers-research/pos-vs-pow-1.0.2.pdf)
 
-### PoS - Proof of Work
+### PoW - Proof of Work
 
 * [Consensus Algorithm PoW](https://www.youtube.com/watch?v=fw3WkySh_Ho&t=3606s) Andreas Antonopoulos
 * [Discussion](https://ethereum.stackexchange.com/questions/tagged/proof-of-stake)
 
-### PoW - Proof of Stake   
+### PoS - Proof of Stake   
 
 * [Extended Summary on Casper](https://medium.com/@jonchoi/ethereum-casper-101-7a851a4f1eb0)
 * [Casper, Ethereum's secret weapon for dealing with "blockchain cartels" and why $100+ ETH isn't entirely unreasonable](  https://steemit.com/ethereum/@dana-edwards/casper-ethereum-s-secret-weapon-for-dealing-with-blockchain-cartels-and-why-usd100-eth-isn-t-entirely-unreasonable)
@@ -61,17 +58,23 @@ We are experiencing one of the most exciting times in history as we have now the
 * [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51) Vitalik Buterin
 * [Critic on the PoS Philosophy explained by Vitalik](https://medium.com/@tuurdemeester/critique-of-buterins-a-proof-of-stake-design-philosophy-49fc9ebb36c6)
 
-#### Podcasts
+Karl Floersch
+* [CESC2017 - Casper Proof of Stake](https://www.youtube.com/watch?v=ycF0WFHY5kc&list=PLSONl1AVlZNVDkdLkn3b_VxY96ENwcm99&index=14) Video
+* [Hangout - Ethereum PoS: Casper FFG In Depth](https://www.youtube.com/watch?v=uQ3IqLDf-oo)
+(https://docs.google.com/presentation/d/1fqnjL-2TqXjhHx8k7HRX7eUYnDK83adnlCLLH8Bk054/edit#slide=id.g2758035b7d_0_0) Presentation
+* [DEVCON3 - Programmable Incentives: Intro to Cryptoeconomics](https://www.youtube.com/watch?v=-alrVUv6E24) Video
+* [Hangout - Ethereum PoS: Casper & Smart Contract Consensus Overview](https://www.youtube.com/watch?v=MyDocEQfBGA&feature=youtu.be)Video
+(https://docs.google.com/presentation/d/1MTb9myfNIQzjMs6QdW2NrtmtzeCexEAiLUpLJZJRKoU/edit#slide=id.g35f391192_00) Presentation
+* [Presenting Casper](https://www.youtube.com/watch?v=MyDocEQfBGA) Video
 
-* [Answering questions about Casper](https://etherreview.info/the-ether-review-2-vlad-zamfir-28f95afc8a3c) Vlad Zamfir
-* [Cryptoeconomics, Stablecoins, Casper](https://softwareengineeringdaily.com/2017/10/28/cryptoeconomics-with-vlad-zamfir/) Vlad Zamfir
+Vlad Zamir
+* [Answering questions about Casper](https://etherreview.info/the-ether-review-2-vlad-zamfir-28f95afc8a3c) Podcast
+* [Cryptoeconomics, Stablecoins, Casper](https://softwareengineeringdaily.com/2017/10/28/cryptoeconomics-with-vlad-zamfir/) Podcast  
+* [DevCon 3 - 5:55 Presentation Casper](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Video
 
-#### Videos
-
-* [DevCon 3 - 3:55 Verifying Casper](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Yoichi Hirai
-* [DevCon 3 - 5:55 Presentation Casper](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Vlad Zamfir
-* [DevCon 3 - 6.23 Panel on Casper and distributed consensus](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Vitalik Buterin, Vlad Zamir, Emin Gun Sirer, Peter Czaban,  Elaine Shi
-* [Presenting Casper](https://www.youtube.com/watch?v=MyDocEQfBGA) Karl Floresch
+Other
+* [DevCon 3 - 6.23 Panel on Casper and distributed consensus](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Video
+* [DevCon 3 - 3:55 Verifying Casper](https://www.youtube.com/watch?v=Yo9o5nDTAAQ)
 
 ## Game Theory
 
