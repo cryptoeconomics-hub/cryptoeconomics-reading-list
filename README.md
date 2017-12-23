@@ -58,16 +58,16 @@ We are experiencing one of the most exciting times in history as we have now the
 * [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51) Vitalik Buterin
 * [Critic on the PoS Philosophy explained by Vitalik](https://medium.com/@tuurdemeester/critique-of-buterins-a-proof-of-stake-design-philosophy-49fc9ebb36c6)
 
-Karl Floersch
+#### Karl Floersch
 * [CESC2017 - Casper Proof of Stake](https://www.youtube.com/watch?v=ycF0WFHY5kc&list=PLSONl1AVlZNVDkdLkn3b_VxY96ENwcm99&index=14) Video
-* [Hangout - Ethereum PoS: Casper FFG In Depth](https://www.youtube.com/watch?v=uQ3IqLDf-oo)
-(https://docs.google.com/presentation/d/1fqnjL-2TqXjhHx8k7HRX7eUYnDK83adnlCLLH8Bk054/edit#slide=id.g2758035b7d_0_0) Presentation
+* [Hangout - Ethereum PoS: Casper FFG In Depth](https://www.youtube.com/watch?v=uQ3IqLDf-oo) Video
+* [Hangout - Ethereum PoS: Casper FFG In Depth](https://docs.google.com/presentation/d/1fqnjL-2TqXjhHx8k7HRX7eUYnDK83adnlCLLH8Bk054/edit#slide=id.g2758035b7d_0_0) Presentation
 * [DEVCON3 - Programmable Incentives: Intro to Cryptoeconomics](https://www.youtube.com/watch?v=-alrVUv6E24) Video
-* [Hangout - Ethereum PoS: Casper & Smart Contract Consensus Overview](https://www.youtube.com/watch?v=MyDocEQfBGA&feature=youtu.be)Video
-(https://docs.google.com/presentation/d/1MTb9myfNIQzjMs6QdW2NrtmtzeCexEAiLUpLJZJRKoU/edit#slide=id.g35f391192_00) Presentation
+* [Hangout - Ethereum PoS: Casper & Smart Contract Consensus Overview](https://www.youtube.com/watch?v=MyDocEQfBGA&feature=youtu.be) Video
+* [Hangout - Ethereum PoS: Casper & Smart Contract Consensus Overview](https://docs.google.com/presentation/d/1MTb9myfNIQzjMs6QdW2NrtmtzeCexEAiLUpLJZJRKoU/edit#slide=id.g35f391192_00) Presentation
 * [Presenting Casper](https://www.youtube.com/watch?v=MyDocEQfBGA) Video
 
-Vlad Zamir
+#### Vlad Zamir
 * [Answering questions about Casper](https://etherreview.info/the-ether-review-2-vlad-zamfir-28f95afc8a3c) Podcast
 * [Cryptoeconomics, Stablecoins, Casper](https://softwareengineeringdaily.com/2017/10/28/cryptoeconomics-with-vlad-zamfir/) Podcast  
 * [DevCon 3 - 5:55 Presentation Casper](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Video
