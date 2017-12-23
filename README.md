@@ -24,8 +24,7 @@ We are experiencing one of the most exciting times in history as we have now the
 * [Hard problems in cryptoeconomics](https://www.youtube.com/watch?v=p5qwbOkCZSc&t=2316s) Vitalik Buterin
 * [The cryptoeconomic way](https://www.youtube.com/watch?v=ZH9nMKIHfAE) Vitalik Buterin
 * [Cryptoeconomic Protocols](https://www.slideshare.net/ethereum/vitalik-buterin-cryptoeconomic-protocols-in-the-context-of-wider-society) Vitalik Buterin
-* [Global Scale Research Networks and Cryptoeconomics](https://www.youtube.com/watch?v=G9Bp56y3X8U) Shin’ichiro Matsuo
-
+* [Global Scale Research Networks and Cryptoeconomics](https://www.youtube.com/watch?v=G9Bp56y3X8U) Shinichiro Matsuo
 
 ### Empirical testing
 
@@ -52,11 +51,16 @@ We are experiencing one of the most exciting times in history as we have now the
 
 ### PoS - Proof of Stake   
 
+#### Overview
 * [Extended Summary on Casper](https://medium.com/@jonchoi/ethereum-casper-101-7a851a4f1eb0)
 * [Casper, Ethereum's secret weapon for dealing with "blockchain cartels" and why $100+ ETH isn't entirely unreasonable](  https://steemit.com/ethereum/@dana-edwards/casper-ethereum-s-secret-weapon-for-dealing-with-blockchain-cartels-and-why-usd100-eth-isn-t-entirely-unreasonable)
 * [Questions on PoS](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
-* [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51) Vitalik Buterin
-* [Critic on the PoS Philosophy explained by Vitalik](https://medium.com/@tuurdemeester/critique-of-buterins-a-proof-of-stake-design-philosophy-49fc9ebb36c6)
+
+#### Vitalik Buterin
+* [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51)
+* [Critic on the PoS Philosophy](https://medium.com/@tuurdemeester/critique-of-buterins-a-proof-of-stake-design-philosophy-49fc9ebb36c6)
+* [Proof of Stake - Technion Cyber and Computer Security Summer School](https://www.youtube.com/watch?v=NRwA-uHkQlU) Video
+* [Proof of Stake - Technion Cyber and Computer Security Summer School](http://vitalik.ca/files/technion2.pdf) Presentation
 
 #### Karl Floersch
 * [CESC2017 - Casper Proof of Stake](https://www.youtube.com/watch?v=ycF0WFHY5kc&list=PLSONl1AVlZNVDkdLkn3b_VxY96ENwcm99&index=14) Video
@@ -71,10 +75,18 @@ We are experiencing one of the most exciting times in history as we have now the
 * [Answering questions about Casper](https://etherreview.info/the-ether-review-2-vlad-zamfir-28f95afc8a3c) Podcast
 * [Cryptoeconomics, Stablecoins, Casper](https://softwareengineeringdaily.com/2017/10/28/cryptoeconomics-with-vlad-zamfir/) Podcast  
 * [DevCon 3 - 5:55 Presentation Casper](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Video
+* [CESC2017 - Cryptoeconomics in Casper](https://www.youtube.com/watch?v=5ScY7ruD_eg&index=23&list=PLSONl1AVlZNVDkdLkn3b_VxY96ENwcm99) Video
+* [The History of Casper — Chapter 1](https://medium.com/@Vlad_Zamfir/the-history-of-casper-part-1-59233819c9a9) Article
+* [The History of Casper — Chapter 2](https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-2-8e09b9d3b780) Article
+* [The History of Casper — Chapter 3](https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-3-70fefb1182fc) Article
+* [The History of Casper — Chapter 4](https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-4-3855638b5f0e) Article
+* [The History of Casper — Chapter 5](https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-5-8652959cef58) Article
 
-Other
+#### Other
 * [DevCon 3 - 6.23 Panel on Casper and distributed consensus](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Video
-* [DevCon 3 - 3:55 Verifying Casper](https://www.youtube.com/watch?v=Yo9o5nDTAAQ)
+* [DevCon 3 - 3:55 Verifying Casper](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Video
+* [PoS and Cryptoecnomics - Berkley University](https://www.youtube.com/watch?v=Dcyb3Db5Ny4) Video
+* [PoS and Cryptoecnomics - Berkley University](https://drive.google.com/file/d/0B2rbXDLiDwPdY00ySzRrRzhXZTg/view) Presentation  
 
 ## Game Theory
 
