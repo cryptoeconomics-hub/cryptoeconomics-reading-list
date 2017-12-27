@@ -6,8 +6,8 @@ We are experiencing one of the most exciting times in history as we have now the
 
 ### Articles
 
-* [How Society Will Be Transformed By CryptoEconomics](https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c)
-* [Cryptoeconomics for dummies](https://medium.com/@j32804/cryptoeconomics-for-dummies-part-0-7172efa81507)
+* [How Society Will Be Transformed By CryptoEconomics](https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c) “most people think of economics as being gray and boring — but in actuality economics is juicy and psychedelic”. - 05/2015
+* [Cryptoeconomics for dummies](https://medium.com/@j32804/cryptoeconomics-for-dummies-part-0-7172efa81507) When not to use cryptoeconomics? “Do not use cryptoeconomics at home. Same as blockchains. If you have a houshold that needs cryptoeconomics, move out.” -02/2017
 * [Cryptoeconomics 101](http://slides.com/ethereummadrid/cryptoeconomics101-stablecoin#/) Ethereum Madrid
 * [Making Sense of Cryptoeconomics](https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669) Josh Stark
 * [What is Cryptoeconomics](https://blockgeeks.com/guides/what-is-cryptoeconomics/) BlockGeeks
@@ -30,12 +30,17 @@ We are experiencing one of the most exciting times in history as we have now the
 
 * [How manipulation-resistant are Prediction Markets? Our Undertaking in Empirical Cryptoeconomics](https://blog.gnosis.pm/how-manipulation-resistant-are-prediction-markets-710e14033d62) Gnosis
 
+### Research groups
+* [RIAT - Institute for Future Cryptoeconomics](https://riat.at/Cryptoeconomics/)
+* [Cryptoeconomics Asia (CA) is an independent research firm](https://cryptoeconomics.asia)
+* [Cryptoeconomics - a research group of economists](http://cryptoeconomics.com.au)
+
 ### Other
 
 * [Exposition on cryptoeconomics](https://www.mqw.at/en/program//programmdetail/crypto-economic-artefacts-1/) RIAT - Institute for Future Cryptoeconomics
-* [Research group on cryptoeconomics](https://riat.at/Cryptoeconomics/) RIAT - Institute for Future Cryptoeconomics
 * [Abstract video on cryptoeconomics](https://www.reddit.com/r/ethtrader/comments/6xp7q5/i_think_i_seriously_just_figured_out_all_of/?st=J74IGNOF&sh=c06637cb)
 * [CECS - CryptoEconomics Security Conference](https://cesc.io)
+* [Reddit subgroup](https://www.reddit.com/r/cryptoeconomics/)
 
 ## Consensus Algorithms
 
@@ -87,6 +92,12 @@ We are experiencing one of the most exciting times in history as we have now the
 * [DevCon 3 - 3:55 Verifying Casper](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Video
 * [PoS and Cryptoecnomics - Berkley University](https://www.youtube.com/watch?v=Dcyb3Db5Ny4) Video
 * [PoS and Cryptoecnomics - Berkley University](https://drive.google.com/file/d/0B2rbXDLiDwPdY00ySzRrRzhXZTg/view) Presentation  
+
+## Network Theory
+
+* [A Note on Metcalfe's Law, Externalities and Ecosystem Splits](http://vitalik.ca/general/2017/07/27/metcalfe.html)
+
+
 
 ## Game Theory
 
