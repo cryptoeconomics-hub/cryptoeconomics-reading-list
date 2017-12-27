@@ -7,7 +7,7 @@
 ### Articles
 
 * [How Society Will Be Transformed By CryptoEconomics](https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c) “most people think of economics as being gray and boring — but in actuality economics is juicy and psychedelic”. - 05/2015
-* [Cryptoeconomics for dummies](https://medium.com/@j32804/cryptoeconomics-for-dummies-part-0-7172efa81507) When not to use cryptoeconomics? “Do not use cryptoeconomics at home. Same as blockchains. If you have a houshold that needs cryptoeconomics, move out.” -02/2017
+* [Cryptoeconomics for dummies](https://medium.com/@j32804/cryptoeconomics-for-dummies-part-0-7172efa81507) "When not to use cryptoeconomics? Do not use cryptoeconomics at home. Same as blockchains. If you have a houshold that needs cryptoeconomics, move out.” -02/2017
 * [Cryptoeconomics 101](http://slides.com/ethereummadrid/cryptoeconomics101-stablecoin#/) Ethereum Madrid
 * [Making Sense of Cryptoeconomics](https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669) Josh Stark
 * [What is Cryptoeconomics](https://blockgeeks.com/guides/what-is-cryptoeconomics/) BlockGeeks
@@ -15,15 +15,20 @@
 * [Summary on CryptoEconomics](https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669)
 * [Why Cryptoeconomics and X-Risk Researchers Should Listen to Each Other More](https://medium.com/@VitalikButerin/why-cryptoeconomics-and-x-risk-researchers-should-listen-to-each-other-more-a2db72b3e86b)
 
-### Videos
+##### Vitalik Buterin
+* [Hard problems in cryptoeconomics](https://www.youtube.com/watch?v=p5qwbOkCZSc&t=2316s) Video
+* [Introduction to cryptoeconomics](https://www.youtube.com/watch?v=pKqdjaH1dRo) Video
+* [Introduction to cryptoeconomics](https://edcon.io/ppt/one/Vitalik%20Buterin_Introduction%20to%20Cryptoeconomics_EDCON.pdf) Presentation
+* [The cryptoeconomic way](https://www.youtube.com/watch?v=ZH9nMKIHfAE) Video
+* [Cryptoeconomic Protocols](https://www.slideshare.net/ethereum/vitalik-buterin-cryptoeconomic-protocols-in-the-context-of-wider-society) Presentation
 
-* [DevCon 3 - 5:05 Programmable Incentives](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Karl Floresch
-* [What is Cryptoeconomics](https://www.youtube.com/watch?v=9lw3s7iGUXQ) Vlad Zamfir
-* [Introduction to cryptoeconomics](https://www.youtube.com/watch?v=pKqdjaH1dRo)
-[Presentation](https://edcon.io/ppt/one/Vitalik%20Buterin_Introduction%20to%20Cryptoeconomics_EDCON.pdf) Vitalik Buterin
-* [Hard problems in cryptoeconomics](https://www.youtube.com/watch?v=p5qwbOkCZSc&t=2316s) Vitalik Buterin
-* [The cryptoeconomic way](https://www.youtube.com/watch?v=ZH9nMKIHfAE) Vitalik Buterin
-* [Cryptoeconomic Protocols](https://www.slideshare.net/ethereum/vitalik-buterin-cryptoeconomic-protocols-in-the-context-of-wider-society) Vitalik Buterin
+##### Karl Floersch
+* [DevCon 3 - 5:05 Programmable Incentives](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Video
+
+##### Vlad Zamfir
+* [What is Cryptoeconomics](https://www.youtube.com/watch?v=9lw3s7iGUXQ) Video
+
+
 * [Global Scale Research Networks and Cryptoeconomics](https://www.youtube.com/watch?v=G9Bp56y3X8U) Shinichiro Matsuo
 
 ### Empirical testing
@@ -33,7 +38,7 @@
 ### Research groups
 * [RIAT - Institute for Future Cryptoeconomics](https://riat.at/Cryptoeconomics/)
 * [Cryptoeconomics Asia (CA) is an independent research firm](https://cryptoeconomics.asia)
-* [Cryptoeconomics - a research group of economists](http://cryptoeconomics.com.au)
+* [Cryptoeconomics - A research group of economists](http://cryptoeconomics.com.au)
 
 ### Other
 
@@ -41,6 +46,7 @@
 * [Abstract video on cryptoeconomics](https://www.reddit.com/r/ethtrader/comments/6xp7q5/i_think_i_seriously_just_figured_out_all_of/?st=J74IGNOF&sh=c06637cb)
 * [CECS - CryptoEconomics Security Conference](https://cesc.io)
 * [Reddit subgroup](https://www.reddit.com/r/cryptoeconomics/)
+* [Telegram Group](https://t.me/cryptoeconomics)
 
 ## Consensus Algorithms
 
