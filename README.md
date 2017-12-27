@@ -1,6 +1,6 @@
 # Cryptoeconomics Reading List
 
-We are experiencing one of the most exciting times in history as we have now the opportunity to create a whole new society. This society will be based on the believe and concept of empowering the individuals in order to open up an un-considered, un-used and un-valued potential in the people and the community. Cryptoeconomics is one of these important new research fields which combines the ideas behind game theory and cryptography for managing in an autonomous way the interactions of people/machines hence nodes in the decentralised world.
+"We are experiencing one of the most exciting times in history as we have now the opportunity to create a whole new society. This society will be based on the believe and concept of empowering the individuals in order to open up an un-considered, un-used and un-valued potential in the people and the community. Cryptoeconomics is one of these important new research fields which combines the ideas behind game theory and cryptography for managing in an autonomous way the interactions of people/machines hence nodes in the decentralised world." [SB](https://twitter.com/SandraCrypto)
 
 ## Cryptoeconomics
 
