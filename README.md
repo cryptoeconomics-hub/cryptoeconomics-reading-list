@@ -7,7 +7,6 @@
 * [How Society Will Be Transformed By CryptoEconomics](https://media.comakery.com/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c) “most people think of economics as being gray and boring — but in actuality economics is juicy and psychedelic”. - 05/2015
 * [Cryptoeconomics for dummies](https://medium.com/@j32804/cryptoeconomics-for-dummies-part-0-7172efa81507) "When not to use cryptoeconomics? Do not use cryptoeconomics at home. Same as blockchains. If you have a houshold that needs cryptoeconomics, move out.” - 02/2017
 * [Making Sense of Cryptoeconomics](https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669) "There are at least three different kinds of systems being designed today that could be called “cryptoeconomic”. Example 1: Consensus protocols; Example 2: Cryptoeconomic application design; Example 3: State channels" - 08/2017
-* [A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976) - 10/2017
 * [What is Cryptoeconomics](https://blockgeeks.com/guides/what-is-cryptoeconomics/) BlockGeeks
 * [Paving the Future of Blockchain Technology](https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971)
 * [Summary on CryptoEconomics](https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669)
@@ -65,6 +64,7 @@
 * [Game Theory approach behind the motivation for bitcoin mining (video)](https://www.youtube.com/watch?v=_VANRj3WpdY)
 
 ### Mechanism Design  
+* [A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976) - 10/2017
 
 ### Network Theory
 * [A Note on Metcalfe's Law, Externalities and Ecosystem Splits](http://vitalik.ca/general/2017/07/27/metcalfe.html)
@@ -72,12 +72,12 @@
 ## Applications
 
 ### Consensus Algorithms
-
 * [Consensus algorithms for permissioned blockchains](https://arxiv.org/pdf/1707.01873.pdf) IBM research
 * [Research Paper PoS vs. Pow](http://bitfury.com/content/5-white-papers-research/pos-vs-pow-1.0.2.pdf)
 
 #### PoW - Proof of Work
 
+##### Overview
 * [Consensus Algorithm PoW](https://www.youtube.com/watch?v=fw3WkySh_Ho&t=3606s) Andreas Antonopoulos
 * [Discussion](https://ethereum.stackexchange.com/questions/tagged/proof-of-stake)
 
