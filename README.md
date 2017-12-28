@@ -1,6 +1,6 @@
 # Cryptoeconomics Reading List
 
-"We are experiencing one of the most exciting times in history as we have now the opportunity to create a whole new society. This society will be based on the believe and concept of empowering the individuals in order to open up an un-considered, un-used and un-valued potential in the people and the community. Cryptoeconomics is one of these important new research fields which combines the ideas behind game theory and cryptography for managing in an autonomous way the interactions of people/machines hence nodes in the decentralised world." [SB](https://twitter.com/SandraCrypto)
+"We are experiencing one of the most exciting times in history as we have now the opportunity to create a whole new society. This society will be based on the believe and concept of empowering the individuals in order to open up an un-considered, un-used and un-valued potential in the people and the community. Cryptoeconomics is one of these important new research fields which combines the ideas behind game theory and cryptography for managing in an autonomous way the interactions of people/machines hence nodes in the decentralised world." [sb_42](https://twitter.com/SandraCrypto)
 
 ## General overview
 
@@ -78,8 +78,8 @@
 * [A safe token sale mechanism](https://medium.com/@Vlad_Zamfir/a-safe-token-sale-mechanism-8d73c430ddd1) - 03/2017
 * [An empirical study of Namecoin
 and lessons for decentralized namespace design](http://randomwalker.info/publications/namespaces.pdf) "Naturally, mapping entities to names (or directly to values) is not a purely technical problem, but re- quires human judgment. In the traditional DNS, arbitration based on trademark law is a mechanism to prevent names that are confusingly similar from being controlled by different entities. This is augmented with Extended Validation certificates, which, when used, establish the legal identity of the name owner. With these mechanisms in place, the user must still provide a name to the system, but at least she can then verify that it corresponds to the correct entity she had in mind. This type of verification is much harder to incorporate in a decentralized system. We are not aware of any designs for decentralized systems that attempt to do so.
-If such mechanisms are not developed, can de- centralized namespaces for domain names be viable at all? Or will they depart so far from user expectations as to be unusable?
-Other solutions for usability might be possible. Web search engines are used in practice as a way of mapping entities to names. Indeed, such “navigational queries” are one of the primary ways in which people use search engines.6 Navigational queries are about equally viable in centralized and decentralized systems. Presumably, using search engines and following links from other sources (including bookmarks) will allow a user to gradually memorize an entity → name mapping." - 05/2015
+If such mechanisms are not developed, can decentralized namespaces for domain names be viable at all? Or will they depart so far from user expectations as to be unusable?
+Other solutions for usability might be possible. Web search engines are used in practice as a way of mapping entities to names. Indeed, such “navigational queries” are one of the primary ways in which people use search engines. Navigational queries are about equally viable in centralized and decentralized systems. Presumably, using search engines and following links from other sources (including bookmarks) will allow a user to gradually memorize an entity → name mapping." - 05/2015
 
 ### Network Theory
 
