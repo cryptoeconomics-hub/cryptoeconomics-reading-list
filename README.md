@@ -20,6 +20,7 @@
 * [Introduction to cryptoeconomics](https://edcon.io/ppt/one/Vitalik%20Buterin_Introduction%20to%20Cryptoeconomics_EDCON.pdf) Presentation
 * [The cryptoeconomic way](https://www.youtube.com/watch?v=ZH9nMKIHfAE) Video
 * [Cryptoeconomic Protocols](https://www.slideshare.net/ethereum/vitalik-buterin-cryptoeconomic-protocols-in-the-context-of-wider-society) Presentation
+* [Crytoeconomics](https://github.com/dapp-studies/cryptoeconomics/blob/master/crypto-notes.md) Notes 
 
 ### Karl Floersch
 * [DevCon 3 - 5:05 Programmable Incentives](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Video
@@ -66,9 +67,19 @@
 * [Game Theory approach behind the motivation for bitcoin mining (video)](https://www.youtube.com/watch?v=_VANRj3WpdY)
 
 ### Mechanism Design  
+
+#### Overview
 * [A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976) - 10/2017
+* [Mechanism Theory](https://web.stanford.edu/~jacksonm/mechtheo.pdf) - 12/2003
+* [Mechanism Design Theory](https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2007/advanced-economicsciences2007.pdf) -10/2017
+
+#### Applied to token sale
+* [Analyzing Token Sale Models](http://vitalik.ca/general/2017/06/09/sales.html) - 06/2017
+* [A safe token sale mechanism](https://medium.com/@Vlad_Zamfir/a-safe-token-sale-mechanism-8d73c430ddd1) - 03/2017
 
 ### Network Theory
+
+#### Applied to forks
 * [A Note on Metcalfe's Law, Externalities and Ecosystem Splits](http://vitalik.ca/general/2017/07/27/metcalfe.html)
 
 ## Applications
@@ -86,6 +97,7 @@
 #### PoS - Proof of Stake   
 
 ##### Overview
+* [On Stake and Consensus](https://download.wpsoftware.net/bitcoin/pos.pdf)
 * [Extended Summary on Casper](https://medium.com/@jonchoi/ethereum-casper-101-7a851a4f1eb0)
 * [Casper, Ethereum's secret weapon for dealing with "blockchain cartels" and why $100+ ETH isn't entirely unreasonable](  https://steemit.com/ethereum/@dana-edwards/casper-ethereum-s-secret-weapon-for-dealing-with-blockchain-cartels-and-why-usd100-eth-isn-t-entirely-unreasonable)
 * [Questions on PoS](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
