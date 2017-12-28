@@ -20,7 +20,7 @@
 * [Introduction to cryptoeconomics](https://edcon.io/ppt/one/Vitalik%20Buterin_Introduction%20to%20Cryptoeconomics_EDCON.pdf) Presentation
 * [The cryptoeconomic way](https://www.youtube.com/watch?v=ZH9nMKIHfAE) Video
 * [Cryptoeconomic Protocols](https://www.slideshare.net/ethereum/vitalik-buterin-cryptoeconomic-protocols-in-the-context-of-wider-society) Presentation
-* [Crytoeconomics](https://github.com/dapp-studies/cryptoeconomics/blob/master/crypto-notes.md) Notes 
+* [Crytoeconomics](https://github.com/dapp-studies/cryptoeconomics/blob/master/crypto-notes.md) Notes
 
 ### Karl Floersch
 * [DevCon 3 - 5:05 Programmable Incentives](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Video
@@ -73,9 +73,13 @@
 * [Mechanism Theory](https://web.stanford.edu/~jacksonm/mechtheo.pdf) - 12/2003
 * [Mechanism Design Theory](https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2007/advanced-economicsciences2007.pdf) -10/2017
 
-#### Applied to token sale
+#### Applied to token projects
 * [Analyzing Token Sale Models](http://vitalik.ca/general/2017/06/09/sales.html) - 06/2017
 * [A safe token sale mechanism](https://medium.com/@Vlad_Zamfir/a-safe-token-sale-mechanism-8d73c430ddd1) - 03/2017
+* [An empirical study of Namecoin
+and lessons for decentralized namespace design](http://randomwalker.info/publications/namespaces.pdf) "Naturally, mapping entities to names (or directly to values) is not a purely technical problem, but re- quires human judgment. In the traditional DNS, arbitration based on trademark law is a mechanism to prevent names that are confusingly similar from being controlled by different entities. This is augmented with Extended Validation certificates, which, when used, establish the legal identity of the name owner. With these mechanisms in place, the user must still provide a name to the system, but at least she can then verify that it corresponds to the correct entity she had in mind. This type of verification is much harder to incorporate in a decentralized system. We are not aware of any designs for decentralized systems that attempt to do so.
+If such mechanisms are not developed, can de- centralized namespaces for domain names be viable at all? Or will they depart so far from user expectations as to be unusable?
+Other solutions for usability might be possible. Web search engines are used in practice as a way of mapping entities to names. Indeed, such “navigational queries” are one of the primary ways in which people use search engines.6 Navigational queries are about equally viable in centralized and decentralized systems. Presumably, using search engines and following links from other sources (including bookmarks) will allow a user to gradually memorize an entity → name mapping." - 05/2015
 
 ### Network Theory
 
