@@ -11,9 +11,9 @@
 Punishments: Bad participants have to pay a monetary fine or they have their rights taken away for behaving badly" - 09/2017
 * [Paving the Future of Blockchain Technology](https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971) "Some critics of blockchain technology as a whole are uncomfortable with the idea that there are so many attack vectors that are theoretically plausible today. I think it is worth noting that, given enough money and time, an attacker will always be able to do damage in any system. Cryptoeconomics stands as a critical bulwark that, at worst, endeavors to make these attacks as expensive, difficult, and undesirable as possible." - 07/2017
 * [Why Cryptoeconomics and X-Risk Researchers Should Listen to Each Other More](https://medium.com/@VitalikButerin/why-cryptoeconomics-and-x-risk-researchers-should-listen-to-each-other-more-a2db72b3e86b) "Both the cryptoeconomics research community and the AI safety/new cyber-governance/existential risk community are trying to tackle what is fundamentally the same problem: how can we regulate a very complex and very smart system with unpredictable emergent properties using a very simple and dumb system whose properties once created are inflexible?" - 07/2016
-* [Cryptoeconomics Definitions Part 1](https://cryptoeconomics.asia/2017/09/04/cryptoeconomics-definitions-p1/) - 09/0217
-* [Cryptoeconomics Definitions Part 2](https://cryptoeconomics.asia/2017/09/05/cryptoeconomics-definition/) - 09/0217
-* [Cryptoeconomics Definitions Part 3](https://cryptoeconomics.asia/2017/09/25/cryptoeconomics-definitions-blockchain-economics/) - 09/2017
+* [Cryptoeconomics Definitions Part 1](https://cryptoeconomics.asia/2017/09/04/cryptoeconomics-definitions-p1/) "Economic Intelligence – Self-aware Intelligence that is able to serve in the role of the invisible hand"- 09/0217
+* [Cryptoeconomics Definitions Part 2](https://cryptoeconomics.asia/2017/09/05/cryptoeconomics-definition/) "Real Technology Framework – Applied blockchain(s) technology that has an impact on the GDP and GNP of a community, normally countries." - 09/0217
+* [Cryptoeconomics Definitions Part 3](https://cryptoeconomics.asia/2017/09/25/cryptoeconomics-definitions-blockchain-economics/) "Institutional Cryptoeconomics – Application of Cryptoeconomics in institutions such as firms and governments. - Crypto Microeconomics – Utilizing a bottom-up approach and microeconomic tools, attempts to explain the role of reduction of asymmetric information. Does not replace current economics, rather can be seen as an experimental chapter of microeconomics. - Crypto Macroeconomics – Utilizing a top-down approach of national and global economic variables such as GDP/GNP along with indicators such as housing permits, etc. In an attempt to put together the use of distributed ledger and blockchain across national boundaries and states."- 09/2017
 * [Global Scale Research Networks and Cryptoeconomics](https://www.youtube.com/watch?v=G9Bp56y3X8U)
 * [Cryptoeconomics 101](http://slides.com/ethereummadrid/cryptoeconomics101-stablecoin#/) Ethereum Madrid
 
@@ -146,6 +146,7 @@ Other solutions for usability might be possible. Web search engines are used in 
 
 ##### Overview
 * [Game theory and Network Attacks- How to destroy Bitcoin - Presentation](https://drive.google.com/file/d/0B2rbXDLiDwPdY00ySzRrRzhXZTg/view)
+"Pool Strategies,  "
 * [Game theory and Network Attacks- How to destroy Bitcoin - Video 11/2016](https://www.youtube.com/watch?v=UPxaCj8ZsEU&index=8&list=PLSONl1AVlZNXxXpPUZW4J8-m1cnN97M2o)
 * [Game theory and Network Attacks- How to destroy Bitcoin - Video 03/2017](https://www.youtube.com/watch?v=TZcfQtBXthc)
 * [Game theory and Network Attacks- How to destroy Bitcoin - Video 11/2017](https://www.youtube.com/watch?v=Y_dBl-iLeMc&index=7&list=PLSONl1AVlZNXVI1dobdDrwv2hhIgemJuA)
