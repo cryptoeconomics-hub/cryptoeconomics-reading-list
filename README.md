@@ -10,10 +10,9 @@
 * [What is Cryptoeconomics](https://blockgeeks.com/guides/what-is-cryptoeconomics/) "There are two sets of incentives that participants in the blockchain have: Incentive Set: Tokens: The actors who actively participate and contribute to the blockchain get assigned cryptocurrencies for their efforts. Privileges: Actors get the decision-making rights which gives them the right to charge rent. Eg. Miners who mine a new block become the temporary dictator of the block and decide which transactions go in. They can charge transaction fees to include transactions within the block itself. Incentive Set Rewards: Good participants get a monetary reward or decision-making responsibility for doing well.
 Punishments: Bad participants have to pay a monetary fine or they have their rights taken away for behaving badly" - 09/2017
 * [Paving the Future of Blockchain Technology](https://hackernoon.com/cryptoeconomics-paving-the-future-of-blockchain-technology-13b04dab971) "Some critics of blockchain technology as a whole are uncomfortable with the idea that there are so many attack vectors that are theoretically plausible today. I think it is worth noting that, given enough money and time, an attacker will always be able to do damage in any system. Cryptoeconomics stands as a critical bulwark that, at worst, endeavors to make these attacks as expensive, difficult, and undesirable as possible." - 07/2017
-* [Summary on CryptoEconomics](https://medium.com/@jjmstark/making-sense-of-cryptoeconomics-c6455776669)
-* [Why Cryptoeconomics and X-Risk Researchers Should Listen to Each Other More](https://medium.com/@VitalikButerin/why-cryptoeconomics-and-x-risk-researchers-should-listen-to-each-other-more-a2db72b3e86b)
-* [Cryptoeconomics 101](http://slides.com/ethereummadrid/cryptoeconomics101-stablecoin#/) Ethereum Madrid
+* [Why Cryptoeconomics and X-Risk Researchers Should Listen to Each Other More](https://medium.com/@VitalikButerin/why-cryptoeconomics-and-x-risk-researchers-should-listen-to-each-other-more-a2db72b3e86b) "Both the cryptoeconomics research community and the AI safety/new cyber-governance/existential risk community are trying to tackle what is fundamentally the same problem: how can we regulate a very complex and very smart system with unpredictable emergent properties using a very simple and dumb system whose properties once created are inflexible?" - 07/2016
 * [Global Scale Research Networks and Cryptoeconomics](https://www.youtube.com/watch?v=G9Bp56y3X8U)
+* [Cryptoeconomics 101](http://slides.com/ethereummadrid/cryptoeconomics101-stablecoin#/) Ethereum Madrid
 
 ### Vitalik Buterin
 * [Hard problems in cryptoeconomics](https://www.youtube.com/watch?v=p5qwbOkCZSc&t=2316s) Video
@@ -30,7 +29,7 @@ Punishments: Bad participants have to pay a monetary fine or they have their rig
 * [What is Cryptoeconomics](https://www.youtube.com/watch?v=9lw3s7iGUXQ) Video
 
 ## Empirical testing
-* [How manipulation-resistant are Prediction Markets? Our Undertaking in Empirical Cryptoeconomics](https://blog.gnosis.pm/how-manipulation-resistant-are-prediction-markets-710e14033d62) Gnosis
+* [How manipulation-resistant are Prediction Markets? Our Undertaking in Empirical Cryptoeconomics](https://blog.gnosis.pm/how-manipulation-resistant-are-prediction-markets-710e14033d62) "5 Cryptoeconomic Experiments - We would like to empirically prove that adding manipulators (or noisy traders) to a prediction market built on the Ethereum infrastructure does not reduce average price accuracy, and that prediction markets will therefore be among the most manipulation-resistant." - 08/2017
 
 ## Research groups
 * [RIAT - Institute for Future Cryptoeconomics](https://riat.at/Cryptoeconomics/)
