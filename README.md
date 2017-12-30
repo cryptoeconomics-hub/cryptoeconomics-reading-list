@@ -36,9 +36,10 @@ Punishments: Bad participants have to pay a monetary fine or they have their rig
 
 ## Research groups
 * [RIAT - Institute for Future Cryptoeconomics](https://riat.at/Cryptoeconomics/)
-"Cryptoeconomics works with projections of future events. Often dubbed ‘reverse-game theory’, cryptoeconomics creates a testbed for predicted outcomes of incentives and penalties, in close relation to real world economics. But as cryptoeconomics are only one aspect of ‘summoning’ the future (on the example of mechanism design), other tools and methods of inquiry exist, which can be considered. To research future cryptoeconomics, we can utilise interdisciplinary research, or more specifically what we call speculative devices and artistic technologies."
+"Cryptoeconomics works with projections of future events. Often dubbed ‘reverse-game theory’, cryptoeconomics creates a testbed for predicted outcomes of incentives and penalties, in close relation to real world economics. But as cryptoeconomics are only one aspect of ‘summoning’ the future (on the example of mechanism design), other tools and methods of inquiry exist, which can be considered. To research future cryptoeconomics, we can utilise interdisciplinary research, or more specifically what we call speculative devices and artistic technologies." Austria
 * [Cryptoeconomics Asia (CA) is an independent research firm](https://cryptoeconomics.asia)
-* [Cryptoeconomics - A research group of economists](http://cryptoeconomics.com.au)
+"Cryptoeconomics Asia (CA) is an independent research firm aimed to bridge the gap between scholarly/programming initiatives in the blockchain industry and the needs of institutional investors. As such, CA aims to simplify and aggregate key investment options within the alpha rich field. Additionally, CA provides research reports for firms on the economic implications of applied blockchain on the real economy." Singapore 
+* [Cryptoeconomics at RMIT University- A research group of economists](http://cryptoeconomics.com.au) "We are a group of economists who focus on the institutional possibilities and challenges of the blockchain economic revolution." Australia
 
 ## Other
 * [Exposition on cryptoeconomics](https://www.mqw.at/en/program//programmdetail/crypto-economic-artefacts-1/)
