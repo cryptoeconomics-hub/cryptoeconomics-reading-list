@@ -167,6 +167,7 @@ Other solutions for usability might be possible. Web search engines are used in 
 ##### 51% Attack
 * [Bitcoin Wiki explanation](https://en.bitcoin.it/wiki/Majority_attack)
 * [Discussion](https://bitcoin.stackexchange.com/questions/tagged/majority-attack)
+* [Scalability of value in decentralized networks](https://blog.coinfund.io/scalability-of-value-in-decentralized-networks-795ed9c91eee)" - 08/2016"
 
 ##### Selfish Mining
 * [How does selfish mining works ](https://bitcoinmagazine.com/articles/selfish-mining-a-25-attack-against-the-bitcoin-network-1383578440/) Vitalik Buterin
