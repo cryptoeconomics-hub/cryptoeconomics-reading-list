@@ -14,6 +14,9 @@ Punishments: Bad participants have to pay a monetary fine or they have their rig
 * [Cryptoeconomics Definitions Part 1](https://cryptoeconomics.asia/2017/09/04/cryptoeconomics-definitions-p1/) "Economic Intelligence – Self-aware Intelligence that is able to serve in the role of the invisible hand"- 09/0217
 * [Cryptoeconomics Definitions Part 2](https://cryptoeconomics.asia/2017/09/05/cryptoeconomics-definition/) "Real Technology Framework – Applied blockchain(s) technology that has an impact on the GDP and GNP of a community, normally countries." - 09/0217
 * [Cryptoeconomics Definitions Part 3](https://cryptoeconomics.asia/2017/09/25/cryptoeconomics-definitions-blockchain-economics/) "Institutional Cryptoeconomics – Application of Cryptoeconomics in institutions such as firms and governments. - Crypto Microeconomics – Utilizing a bottom-up approach and microeconomic tools, attempts to explain the role of reduction of asymmetric information. Does not replace current economics, rather can be seen as an experimental chapter of microeconomics. - Crypto Macroeconomics – Utilizing a top-down approach of national and global economic variables such as GDP/GNP along with indicators such as housing permits, etc. In an attempt to put together the use of distributed ledger and blockchain across national boundaries and states."- 09/2017
+* [Cryptoeconomics Is Hard](https://blog.coinfund.io/cryptoeconomics-is-hard-ad401b2428b9) "xxx 03/2017"
+* [Cryptoeconomics is hard, part 2](https://blog.coinfund.io/cryptoeconomics-is-hard-part-2-4d522cb3d3a4) "xxx 03/2017"
+* [Cryptoeconomics is hard: Market Cap](https://blog.coinfund.io/cryptoeconomics-is-hard-market-cap-4833c378a3e0) "xxx 03/2017"
 * [Global Scale Research Networks and Cryptoeconomics](https://www.youtube.com/watch?v=G9Bp56y3X8U)
 * [Cryptoeconomics 101](http://slides.com/ethereummadrid/cryptoeconomics101-stablecoin#/) Ethereum Madrid
 
@@ -38,7 +41,7 @@ Punishments: Bad participants have to pay a monetary fine or they have their rig
 * [RIAT - Institute for Future Cryptoeconomics](https://riat.at/Cryptoeconomics/)
 "Cryptoeconomics works with projections of future events. Often dubbed ‘reverse-game theory’, cryptoeconomics creates a testbed for predicted outcomes of incentives and penalties, in close relation to real world economics. But as cryptoeconomics are only one aspect of ‘summoning’ the future (on the example of mechanism design), other tools and methods of inquiry exist, which can be considered. To research future cryptoeconomics, we can utilise interdisciplinary research, or more specifically what we call speculative devices and artistic technologies." Austria
 * [Cryptoeconomics Asia (CA) is an independent research firm](https://cryptoeconomics.asia)
-"Cryptoeconomics Asia (CA) is an independent research firm aimed to bridge the gap between scholarly/programming initiatives in the blockchain industry and the needs of institutional investors. As such, CA aims to simplify and aggregate key investment options within the alpha rich field. Additionally, CA provides research reports for firms on the economic implications of applied blockchain on the real economy." Singapore 
+"Aime to bridge the gap between scholarly/programming initiatives in the blockchain industry and the needs of institutional investors. As such, CA aims to simplify and aggregate key investment options within the alpha rich field. Additionally, CA provides research reports for firms on the economic implications of applied blockchain on the real economy." Singapore
 * [Cryptoeconomics at RMIT University- A research group of economists](http://cryptoeconomics.com.au) "We are a group of economists who focus on the institutional possibilities and challenges of the blockchain economic revolution." Australia
 
 ## Other
@@ -96,6 +99,8 @@ Other solutions for usability might be possible. Web search engines are used in 
 ### Consensus Algorithms
 * [Consensus algorithms for permissioned blockchains](https://arxiv.org/pdf/1707.01873.pdf) IBM research
 * [Research Paper PoS vs. Pow](http://bitfury.com/content/5-white-papers-research/pos-vs-pow-1.0.2.pdf)
+* [The Consensus Series, Part I: The Basics of Collectivity](https://blog.coinfund.io/the-consensus-series-part-i-the-basics-of-collectivity-a11d76ff4d5d)
+* [The Consensus Series, Part I: The Basics of Collectivity](https://blog.coinfund.io/the-consensus-series-part-i-the-basics-of-collectivity-a11d76ff4d5d)
 
 #### PoW - Proof of Work
 
