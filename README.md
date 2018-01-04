@@ -169,6 +169,9 @@ Other solutions for usability might be possible. Web search engines are used in 
 * [Discussion](https://bitcoin.stackexchange.com/questions/tagged/majority-attack)
 * [Scalability of value in decentralized networks](https://blog.coinfund.io/scalability-of-value-in-decentralized-networks-795ed9c91eee)" - 08/2016"
 
+* [Analysis of hashrate-based double-spending](https://arxiv.org/pdf/1402.2009.pdf) - 11/2012
+* [SATOSHI RISK TABLES](https://arxiv.org/pdf/1702.04421.pdf) - 02/2017
+
 ##### Selfish Mining
 * [How does selfish mining works ](https://bitcoinmagazine.com/articles/selfish-mining-a-25-attack-against-the-bitcoin-network-1383578440/) Vitalik Buterin
 
@@ -181,6 +184,7 @@ Other solutions for usability might be possible. Web search engines are used in 
 
 ##### Double Spend Attack
 * [Research paper on hashrate-based double spend](https://arxiv.org/pdf/1402.2009v1.pdf)
+* [SATOSHI RISK TABLES](https://arxiv.org/pdf/1702.04421.pdf) 
 
 ##### Eclipse Attack
 * [Research Paper on eclipse attacks on Bitcoin Network](https://eprint.iacr.org/2015/263.pdf)
