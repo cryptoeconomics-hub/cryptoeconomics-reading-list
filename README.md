@@ -50,6 +50,7 @@ Punishments: Bad participants have to pay a monetary fine or they have their rig
 * [CECS - CryptoEconomics Security Conference](https://cesc.io)
 * [Reddit subgroup](https://www.reddit.com/r/cryptoeconomics/)
 * [Telegram Group](https://t.me/cryptoeconomics)
+* [Podcast on institutionalen cryptoeconomics](https://www.youtube.com/watch?v=CZr6vOwi2Jw) Fintech Podcast - Episode 151 - Crypto-Economics as explained by Dr Chris Berg 09/2017
 
 ## Elements
 
@@ -89,7 +90,7 @@ and lessons for decentralized namespace design](http://randomwalker.info/publica
 If such mechanisms are not developed, can decentralized namespaces for domain names be viable at all? Or will they depart so far from user expectations as to be unusable?
 Other solutions for usability might be possible. Web search engines are used in practice as a way of mapping entities to names. Indeed, such “navigational queries” are one of the primary ways in which people use search engines. Navigational queries are about equally viable in centralized and decentralized systems. Presumably, using search engines and following links from other sources (including bookmarks) will allow a user to gradually memorize an entity → name mapping." - 05/2015
 
-### Network Theory
+### Network Economics
 
 #### Applied to forks
 * [A Note on Metcalfe's Law, Externalities and Ecosystem Splits](http://vitalik.ca/general/2017/07/27/metcalfe.html)
@@ -133,7 +134,8 @@ Other solutions for usability might be possible. Web search engines are used in 
 
 ##### Vlad Zamir
 * [Answering questions about Casper](https://etherreview.info/the-ether-review-2-vlad-zamfir-28f95afc8a3c) Podcast
-* [Cryptoeconomics, Stablecoins, Casper](https://softwareengineeringdaily.com/2017/10/28/cryptoeconomics-with-vlad-zamfir/) Podcast  
+* [Cryptoeconomics, Stablecoins, Casper](https://softwareengineeringdaily.com/2017/10/28/cryptoeconomics-with-vlad-zamfir/) Podcast
+* [Cryptoeconomics, Stablecoins, Casper](https://softwareengineeringdaily.com/wp-content/uploads/2017/10/SED449-Vlad-Zamfir.pdf) Script
 * [DevCon 3 - 5:55 Presentation Casper](https://www.youtube.com/watch?v=Yo9o5nDTAAQ) Video
 * [CESC2017 - Cryptoeconomics in Casper](https://www.youtube.com/watch?v=5ScY7ruD_eg&index=23&list=PLSONl1AVlZNVDkdLkn3b_VxY96ENwcm99) Video
 * [The History of Casper — Chapter 1](https://medium.com/@Vlad_Zamfir/the-history-of-casper-part-1-59233819c9a9) Article
@@ -184,7 +186,7 @@ Other solutions for usability might be possible. Web search engines are used in 
 
 ##### Double Spend Attack
 * [Research paper on hashrate-based double spend](https://arxiv.org/pdf/1402.2009v1.pdf)
-* [SATOSHI RISK TABLES](https://arxiv.org/pdf/1702.04421.pdf) 
+* [SATOSHI RISK TABLES](https://arxiv.org/pdf/1702.04421.pdf) 02/2017
 
 ##### Eclipse Attack
 * [Research Paper on eclipse attacks on Bitcoin Network](https://eprint.iacr.org/2015/263.pdf)
