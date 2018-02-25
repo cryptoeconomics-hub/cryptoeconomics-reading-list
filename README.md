@@ -81,6 +81,7 @@ Punishments: Bad participants have to pay a monetary fine or they have their rig
 * [A Crash Course in Mechanism Design for Cryptoeconomic Applications](https://medium.com/blockchannel/a-crash-course-in-mechanism-design-for-cryptoeconomic-applications-a9f06ab6a976) - 10/2017
 * [Mechanism Theory](https://web.stanford.edu/~jacksonm/mechtheo.pdf) - 12/2003
 * [Mechanism Design Theory](https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2007/advanced-economicsciences2007.pdf) -10/2017
+* [Mechanism design theory - Eric Maskin](https://www.youtube.com/watch?v=Y645BrYSi74) -"Nobel Prize winning economist Eric Maskin on second highest price mechanism for the privatisation of radios" 03/2013
 
 #### Applied to token projects
 * [Analyzing Token Sale Models](http://vitalik.ca/general/2017/06/09/sales.html) - 06/2017
